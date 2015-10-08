@@ -46,6 +46,7 @@ Mentor Coordinator: Hunter Chapman (hunter@devbootcamp.com)
 
 #### After Your Shift:
 - Remove your name from the board.
+- Complete [End of Session Survey](https://docs.google.com/a/devbootcamp.com/forms/d/1bNIBtgy2ephY5117eHa31iFVgVRxPJAA0zzyeEqvTlA/viewform)
 
 #### Finding Coverage For Shifts:
 - You must find coverage for shifts you no longer want to work, with the exceptions of personal emergencies (including interview requests). Use the mentor email list (mentors.sf@devbootcamp.com) to find coverage.
