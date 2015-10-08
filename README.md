@@ -19,7 +19,7 @@
 #### Info and Links:
 Email List: mentors.sf@devbootcamp.com
 
-Mentor Coordinator: Anne Spalding (anne@devbootcamp.com)
+Mentor Coordinator: Hunter Chapman (hunter@devbootcamp.com)
 
 
 #### Signing Up For Shifts:
