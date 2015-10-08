@@ -1,17 +1,17 @@
 #Welcome to the Mentorship Wiki!
 
 ##Table of Contents:
-[Contact Info And Links](#contact-info-and-links)
-[Signing Up For Shifts](#signing-up-for-shifts)
-[Before Your Shift](#before-your-shift)
-[During Your Shift](#during-your-shift)
-[After Your Shift](#after-your-shift)
-[Finding Coverage For Shifts](#finding-coverage-for-shifts)
-[Giving and Receiving Feedback](#giving-and-receiving-feedback)
-[How To Submit Your Hours in Workday](#how-to-submit-your-hours-in-workday)
-[Meetings](#meetings)
-[How To Claim A Pull Request For A Code Review](#how-to-claim-a-pull-request-for-a-code-review)
-[How To Complete A Code Review](#how-to-complete-a-code-review)
+  - [Contact Info And Links](#contact-info-and-links)
+  - [Signing Up For Shifts](#signing-up-for-shifts)
+  - [Before Your Shift](#before-your-shift)
+  - [During Your Shift](#during-your-shift)
+  - [After Your Shift](#after-your-shift)
+  - [Finding Coverage For Shifts](#finding-coverage-for-shifts)
+  - [Giving and Receiving Feedback](#giving-and-receiving-feedback)
+  - [How To Submit Your Hours in Workday](#how-to-submit-your-hours-in-workday)
+  - [Meetings](#meetings)
+  - [How To Claim A Pull Request For A Code Review](#how-to-claim-a-pull-request-for-a-code-review)
+  - [How To Complete A Code Review](#how-to-complete-a-code-review)
 
 
 *****
