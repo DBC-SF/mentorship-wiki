@@ -21,6 +21,8 @@ Email List: mentors.sf@devbootcamp.com **(Pending)**
 
 Mentor Coordinator: Hunter Chapman (hunter@devbootcamp.com)
 
+New Mentor [On boarding Guide](https://docs.google.com/document/d/1M-0K1eJF2NYSPI1TBqa0s0RKvVpzSnTnybIFJcH-wyc/edit?usp=sharing)
+
 
 #### Signing Up For Shifts:
 - Mentor shifts are created on the mentor appointments calendar - if you are a mentor [you can sign up here](https://www.google.com/calendar/selfsched?sstoken=UUZObHZFNEpMRnV0fGRlZmF1bHR8MWY3MjM4NjgwOWQzZDBiNmEwYTFhNDIzYjNhMThkNTU)
