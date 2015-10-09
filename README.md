@@ -17,7 +17,7 @@
 *****
 
 #### Info and Links:
-Email List: mentors.sf@devbootcamp.com
+Email List: mentors.sf@devbootcamp.com **(Pending)**
 
 Mentor Coordinator: Hunter Chapman (hunter@devbootcamp.com)
 
@@ -28,7 +28,7 @@ Mentor Coordinator: Hunter Chapman (hunter@devbootcamp.com)
  - Open shifts may be filled by any mentor.  It is useful if you can claim open shifts a few days ahead of time so students know what support to expect, but they may be claimed as you walk in the door.
  - If there are no open shifts available on the time you want to mentor, you may request that additional shifts be created.
 
-- See the video below for specifc instructions. **coming soon**
+- See the video below for specific instructions. **coming soon**
 
 #### Before Your Shift:
 - Review the challenges the students will be working by checking each of their phase guides. You can access these through the mentor GitHub account.
