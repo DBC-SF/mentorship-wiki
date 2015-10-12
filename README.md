@@ -14,11 +14,9 @@
 #### Info and Links:
 Mentor Coordinator: [Hunter T. Chapman](hunter@devbootcamp.com)
 
-GitHub Account:
-- Username: DBC-SF-Mentors
-- Email Mentor Coordinator for password
-
 Email List: mentors.sf@devbootcamp.com **(Pending)**
+
+**Links**
 
 - [On boarding Guide](https://docs.google.com/document/d/1M-0K1eJF2NYSPI1TBqa0s0RKvVpzSnTnybIFJcH-wyc/edit?usp=sharing)
 
@@ -27,6 +25,10 @@ Email List: mentors.sf@devbootcamp.com **(Pending)**
 - [Weekly Survey](https://docs.google.com/a/devbootcamp.com/forms/d/1aYZX7t737QJcIxmb25DCwcYPzKsxzgmiz_COOHjxj0I/viewform)
 
 - [Give a Mentor Feedback](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform)
+
+GitHub Account:
+- Username: DBC-SF-Mentors
+- Email Mentor Coordinator for password
 
 #### Giving and Receiving Feedback:
 - Complete the [Weekly Mentor Survey](https://docs.google.com/a/devbootcamp.com/forms/d/1aYZX7t737QJcIxmb25DCwcYPzKsxzgmiz_COOHjxj0I/viewform) weekly to talk about your experiences.
