@@ -53,6 +53,7 @@ It is your responsibility to ensure your session does not exceed these limits. A
 
 - **Maximum of 5 Mentors** can book after hours sessions each day.
 - **Maximum of 20 hours** per week for each Mentor.
+- There is also a weekly maximum for all Mentors see the [FAQ](#faq).
 
 #### Finding Coverage For Sessions:
 If you book a session on the calendar but are unable to make it:
@@ -127,6 +128,8 @@ This is per month.  Since mentors are now part time employees, there is a limit 
 This is based on the number of students on-site. It is currently 100 hours, with 60 hours being reserved for phase leads to schedule during day hours and 40 available for nights and weekends.  At a max it will be 166 hours with 120 reserved for day hours and 46 available for nights and weekends.
 This number may change based on student demand and mentor availability.
 
+Mentors will be notified if the program is approaching this limit by the Mentor Coordinator.
+
 - What are the details of the commuter benefits?
 
 The Commuter Benefits Program allows you to set aside pre-tax money for out-of-pocket, work-related parking and/or mass transit commuting expenses. Your election may be changed monthly, based on your changing transit needs. Expenses are limited to eligible commuter parking and/or mass transit expenses incurred by you. Examples of eligible expenses can include a paid parking facility at or near your place or work, commuter trains, subways, buses, ferries, and van pooling (with at least six passengers). For parking you may set aside up to $250 per month in 2015. For mass transit, you may set aside up to $130 per month in 2015.
@@ -135,11 +138,11 @@ The Commuter Benefits Program allows you to set aside pre-tax money for out-of-p
 
 We have Fixed Sessions on the calendar for existing events.  These will be pre-assigned to the main person (though if that person can’t do it they can pass it off). For example Whiteboard Wednesday will be a pre-assigned Fixed Session that is automatically assigned to Amelia (or John). Also Sinatra Workshop would be on the Fixed Session.  The mentor who wants to run this would need to connect with the Mentor Coordinator to set the time and day.
 
-If there are additional Fixed Sessions that any mentor would like to have - they can request this from the Mentor Coordinator who will assess the number of mentoring hours available.
+If there are additional Fixed Sessions that any mentor would like to have - they can request this from the Mentor Coordinator who will assess the number of mentoring hours available against the need for such a session.
 
 - Are there opportunities for title advancement/pay increase?
 
-Currently there are no opportunities for title advancement or pay increase.  Mentors that have been doing particular activities will be given preference for doing these.
+Currently there are no opportunities for title advancement or pay increase. Mentors that have been doing particular activities will be given preference for doing these.
 
 There may be title advancement in the future - we’ll need to get the program up and running first.
 
