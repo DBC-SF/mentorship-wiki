@@ -1,6 +1,7 @@
-#Mentors Wiki!
+# Mentors Wiki
 
 ##Table of Contents:
+  - [F.A.Q.](#faq)
   - [Sessions](#sessions)
   - [General Guidelines](#during-your-session)
   - [Feedback](#giving-and-receiving-feedback)
@@ -11,7 +12,7 @@
 *****
 
 #### Info and Links:
-Mentor Coordinator: Hunter T. Chapman (hunter@devbootcamp.com)
+Mentor Coordinator: [Hunter T. Chapman](hunter@devbootcamp.com)
 
 GitHub Account:
 - Username: DBC-SF-Mentors
@@ -110,6 +111,40 @@ Sign in using the DBC-SF-Mentor GitHub account.
 2. Review the code in green, which indicates the changes that were made by the student to the file. Code in white was provided to them as part of the challenge.
 3. Leave a comment in-line by clicking on the plus sign of the line in question and filling out the comment box.
 4. When finished, click on the "Conversations" link and fill out a final summary comment ("Good job", "Here's a resource you may find useful", etc). Click "Close and Comment".
+
+#### Removal from the program:
+Mentors are expected to uphold the three agreements and location specific rules at all times.  Failure to do so will result in removal from the program.
+
+Mentors are expected to work at least 5 hours a month to remain active in the program.  Mentors working less than this will be contacted and asked to increase their hours or to retire from the program if they do not wish to work the minimum.  Retired mentors can re-apply to the program at a later time.
+
+### FAQ
+- Is the 5 hours per month a minimum per month, or an average over multiple months?
+
+This is per month.  Since mentors are now part time employees, there is a limit to the number that we can have active.  We would like our active mentors to meet a minimum level of engagement. If you are planning a trip that will prohibit you from meeting this minimum you may speak wit the Mentor Coordinator about a waiver.
+
+- What is the maximum number of mentor hours that can be worked in a week?
+
+This is based on the number of students on-site. It is currently 100 hours, with 60 hours being reserved for phase leads to schedule during day hours and 40 available for nights and weekends.  At a max it will be 166 hours with 120 reserved for day hours and 46 available for nights and weekends.
+This number may change based on student demand and mentor availability.
+
+- What are the details of the commuter benefits?
+
+The Commuter Benefits Program allows you to set aside pre-tax money for out-of-pocket, work-related parking and/or mass transit commuting expenses. Your election may be changed monthly, based on your changing transit needs. Expenses are limited to eligible commuter parking and/or mass transit expenses incurred by you. Examples of eligible expenses can include a paid parking facility at or near your place or work, commuter trains, subways, buses, ferries, and van pooling (with at least six passengers). For parking you may set aside up to $250 per month in 2015. For mass transit, you may set aside up to $130 per month in 2015.
+
+- For things like coordinating the phase transition workshop (intro to sinatra), how does that fit into the booking sessions?
+
+We have Fixed Sessions on the calendar for existing events.  These will be pre-assigned to the main person (though if that person can’t do it they can pass it off). For example Whiteboard Wednesday will be a pre-assigned Fixed Session that is automatically assigned to Amelia (or John). Also Sinatra Workshop would be on the Fixed Session.  The mentor who wants to run this would need to connect with the Mentor Coordinator to set the time and day.
+
+If there are additional Fixed Sessions that any mentor would like to have - they can request this from the Mentor Coordinator who will assess the number of mentoring hours available.
+
+- Are there opportunities for title advancement/pay increase?
+
+Currently there are no opportunities for title advancement or pay increase.  Mentors that have been doing particular activities will be given preference for doing these.
+
+There may be title advancement in the future - we’ll need to get the program up and running first.
+
+There will not be opportunities for pay increase.
+
 
 
 ## Anything Else...
