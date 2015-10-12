@@ -5,7 +5,7 @@
   - [General Guidelines](#during-your-session)
   - [Feedback](#giving-and-receiving-feedback)
   - [Submit Hours in Workday](#how-to-submit-your-hours-in-workday)
-  - [Meetings](#meetings)
+  - [Meetings](#optional-meetings)
   - [Code Review](#code-review)
 
 *****
@@ -38,7 +38,7 @@ You are required to solicit some student feedback on you each phase you work. Th
 - There is a maximum of 5 Mentor after hours sessions available each day. It is your responsibility to ensure your session does not exceed this limit.
 - It is useful if you can claim open sessions a few days ahead of time so students know what support to expect, but they may be claimed as you walk in the door.
 
-- See the video below for specific instructions. **coming soon**
+- See the video below for a demo. **coming soon**
 
 #### Finding Coverage For Sessions:
 If you book a session on the calendar but are unable to make it:
