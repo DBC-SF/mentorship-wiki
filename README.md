@@ -1,4 +1,4 @@
-#Welcome to the Mentorship Wiki!
+#Mentors Wiki!
 
 ##Table of Contents:
   - [Sessions](#sessions)
@@ -39,12 +39,19 @@ Email List: mentors.sf@devbootcamp.com **(Pending)**
 ## Sessions
 
 #### Signing Up For Sessions:
-- Mentor sessions are created on the mentor appointments calendar. If you cannot access this Google calendar, email the Mentor Coordinator for assistance.
+Mentors are added to the Mentor Appointments Calendar after they are accepted to the program. If you cannot access this Google calendar, email the Mentor Coordinator for assistance.
+
+- Mentor sessions are created on the Mentor Appointments Calendar.
 - Some sessions are assigned by the Mentor Coordinator either because they are phase specific sessions during core hours, or a particular mentor has requested to own that session (IE. white-boarding Wednesdays).
-- There is a maximum of 5 Mentor after hours sessions available each day. It is your responsibility to ensure your session does not exceed this limit.
 - It is useful if you can claim open sessions a few days ahead of time so students know what support to expect, but they may be claimed as you walk in the door.
 
 - See the video below for a demo. **coming soon**
+
+#### Session Constraints:
+It is your responsibility to ensure your session does not exceed these limits. Any work outside these limits will not be deemed billable hours.
+
+- **Maximum of 5 Mentors** after hours sessions are available each day.
+- **Maximum of 20 hours** per week for each Mentor.
 
 #### Finding Coverage For Sessions:
 If you book a session on the calendar but are unable to make it:
@@ -52,10 +59,10 @@ If you book a session on the calendar but are unable to make it:
 - You must find coverage for sessions you no longer want to work, with the exceptions of personal emergencies (including interview requests). Use the mentor email list (mentors.sf@devbootcamp.com) to find coverage.
 - Once someone has offered to pick up your session, you need to delete yourself from the DBC::SF Mentor calendar (NOT YOUR PERSONAL CALENDAR).  This will open up the session on the Mentor Calendar and the other mentor can sign up.
 
- 1. Go to your Google calendar page and make sure that the DBC::SF Mentor Calendar is the only one selected. If you have your personal calendar displayed as well, you may inadvertently delete the session from your personal calendar instead of the DBC calendar. Your old session WILL STILL BE VISIBLE on the DBC calendar, even though it is gone from your own calendar. You need to be sure to delete directly from the DBC calendar for this reason.
- 2. Click on the session you need to delete and then click the "Delete" link.
- 3. A pop-up will appear - Choose either "Delete and update guests" or "Delete without updating", it doesn't matter.
- 4. Inform the person picking up your session that it's now available on the calendar.
+  1. Go to your Google calendar page and make sure that the DBC::SF Mentor Calendar is the only one selected. If you have your personal calendar displayed as well, you may inadvertently delete the session from your personal calendar instead of the DBC calendar. Your old session WILL STILL BE VISIBLE on the DBC calendar, even though it is gone from your own calendar. You need to be sure to delete directly from the DBC calendar for this reason.
+  2. Click on the session you need to delete and then click the "Delete" link.
+  3. A pop-up will appear - Choose either "Delete and update guests" or "Delete without updating", it doesn't matter.
+  4. Inform the person picking up your session that it's now available on the calendar.
 
 #### Before Your Session:
 - Review the challenges the students will be working by checking each of their phase guides. You can access these through the mentor GitHub account.
@@ -104,3 +111,6 @@ Sign in using the DBC-SF-Mentor GitHub account.
 3. Leave a comment in-line by clicking on the plus sign of the line in question and filling out the comment box.
 4. When finished, click on the "Conversations" link and fill out a final summary comment ("Good job", "Here's a resource you may find useful", etc). Click "Close and Comment".
 
+
+## Anything Else...
+If there is something that should be covered here please email the Mentor Coordinator or open a PR.
