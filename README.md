@@ -11,20 +11,26 @@
 *****
 
 #### Info and Links:
-Email List: mentors.sf@devbootcamp.com **(Pending)**
-
 Mentor Coordinator: Hunter T. Chapman (hunter@devbootcamp.com)
-
-New Mentor [On boarding Guide](https://docs.google.com/document/d/1M-0K1eJF2NYSPI1TBqa0s0RKvVpzSnTnybIFJcH-wyc/edit?usp=sharing)
 
 GitHub Account:
 - Username: DBC-SF-Mentors
 - Email Mentor Coordinator for password
 
+Email List: mentors.sf@devbootcamp.com **(Pending)**
+
+- [On boarding Guide](https://docs.google.com/document/d/1M-0K1eJF2NYSPI1TBqa0s0RKvVpzSnTnybIFJcH-wyc/edit?usp=sharing)
+
+- [End of Session](https://docs.google.com/a/devbootcamp.com/forms/d/1bNIBtgy2ephY5117eHa31iFVgVRxPJAA0zzyeEqvTlA/viewform)
+
+- [Weekly Survey](https://docs.google.com/a/devbootcamp.com/forms/d/1aYZX7t737QJcIxmb25DCwcYPzKsxzgmiz_COOHjxj0I/viewform)
+
+- [Give a Mentor Feedback](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform)
+
 #### Giving and Receiving Feedback:
-Complete the [Mentor Survey](https://docs.google.com/a/devbootcamp.com/forms/d/1bNIBtgy2ephY5117eHa31iFVgVRxPJAA0zzyeEqvTlA/viewform) weekly to talk about your experiences.
-A collection of student feedback on Mentors will be sent once a week.
-You are required to solicit some student feedback on you each phase you work. This feedback will be reviewed by the Mentor Coordinator. Use the Give a Mentor feedback form **link coming soon**
+- Complete the [Weekly Mentor Survey](https://docs.google.com/a/devbootcamp.com/forms/d/1aYZX7t737QJcIxmb25DCwcYPzKsxzgmiz_COOHjxj0I/viewform) weekly to talk about your experiences.
+- Student feedback for Mentors will be collected during the weekly retro survey.
+- You are required to solicit some student feedback on you each phase you work. This feedback will be reviewed by the Mentor Coordinator. Use the Give a [Mentor feedback form](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform). A link to this form will also be in the students guide.
 
 #### Optional Meetings:
 - 1st Monday of Phase @ 6:15 -- Mentor powwow with Mentor Coordinator. Feel free to attend if you have questions or concerns.
@@ -67,9 +73,10 @@ If you book a session on the calendar but are unable to make it:
 
 #### After Your Session:
 - Remove your name from the board.
+- Complete the [End of Session](https://docs.google.com/a/devbootcamp.com/forms/d/1bNIBtgy2ephY5117eHa31iFVgVRxPJAA0zzyeEqvTlA/viewform) form.
 
 #### Weekly Responsibilities:
-- Complete the [Mentor Survey](https://docs.google.com/a/devbootcamp.com/forms/d/1bNIBtgy2ephY5117eHa31iFVgVRxPJAA0zzyeEqvTlA/viewform)
+- Complete the [Mentor Survey](https://docs.google.com/a/devbootcamp.com/forms/d/1aYZX7t737QJcIxmb25DCwcYPzKsxzgmiz_COOHjxj0I/viewform)
 - Submit hours worked via Workday
 
 #### How To Submit Your Hours in Workday:
