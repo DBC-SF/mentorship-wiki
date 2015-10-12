@@ -16,9 +16,7 @@ Mentor Coordinator: [Hunter T. Chapman](hunter@devbootcamp.com)
 
 Email List: mentors.sf@devbootcamp.com **(Pending)**
 
-GitHub Account:
-
-Username = DBC-SF-Mentors
+GitHub Account Username: DBC-SF-Mentors
 
 Email Mentor Coordinator for password
 
