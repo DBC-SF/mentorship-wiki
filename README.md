@@ -50,7 +50,7 @@ Mentors are added to the Mentor Appointments Calendar after they are accepted to
 #### Session Constraints:
 It is your responsibility to ensure your session does not exceed these limits. Any work outside these limits will not be deemed billable hours.
 
-- **Maximum of 5 Mentors** after hours sessions are available each day.
+- **Maximum of 5 Mentors** can book after hours sessions each day.
 - **Maximum of 20 hours** per week for each Mentor.
 
 #### Finding Coverage For Sessions:
