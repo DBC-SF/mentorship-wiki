@@ -2,11 +2,11 @@
 
 ##Table of Contents:
   - [Contact Info And Links](#contact-info-and-links)
-  - [Signing Up For Shifts](#signing-up-for-shifts)
-  - [Before Your Shift](#before-your-shift)
-  - [During Your Shift](#during-your-shift)
-  - [After Your Shift](#after-your-shift)
-  - [Finding Coverage For Shifts](#finding-coverage-for-shifts)
+  - [Signing Up For Sessions](#signing-up-for-sessions)
+  - [Before Your Shift](#before-your-session)
+  - [During Your Shift](#during-your-session)
+  - [After Your Shift](#after-your-session)
+  - [Finding Coverage For Sessions](#finding-coverage-for-sessions)
   - [Giving and Receiving Feedback](#giving-and-receiving-feedback)
   - [How To Submit Your Hours in Workday](#how-to-submit-your-hours-in-workday)
   - [Meetings](#meetings)
@@ -23,20 +23,30 @@ Mentor Coordinator: Hunter Chapman (hunter@devbootcamp.com)
 
 New Mentor [On boarding Guide](https://docs.google.com/document/d/1M-0K1eJF2NYSPI1TBqa0s0RKvVpzSnTnybIFJcH-wyc/edit?usp=sharing)
 
+## Sessions
 
-#### Signing Up For Shifts:
-- Mentor shifts are created on the mentor appointments calendar - if you are a mentor [you can sign up here](https://www.google.com/calendar/selfsched?sstoken=UUZObHZFNEpMRnV0fGRlZmF1bHR8MWY3MjM4NjgwOWQzZDBiNmEwYTFhNDIzYjNhMThkNTU)
- - Some shifts are assigned by mentor coordinators either because they are phase specific shifts during core hours, or a particular mentor has requested to own that shift (ie whiteboard wednesdays).
- - Open shifts may be filled by any mentor.  It is useful if you can claim open shifts a few days ahead of time so students know what support to expect, but they may be claimed as you walk in the door.
- - If there are no open shifts available on the time you want to mentor, you may request that additional shifts be created.
+#### Signing Up For Sessions:
+- Mentor sessions are created on the mentor appointments calendar - if you are a mentor [you can sign up here](https://www.google.com/calendar/selfsched?sstoken=UUZObHZFNEpMRnV0fGRlZmF1bHR8MWY3MjM4NjgwOWQzZDBiNmEwYTFhNDIzYjNhMThkNTU)
+ - Some sessions are assigned by mentor coordinators either because they are phase specific sessions during core hours, or a particular mentor has requested to own that session (ie whiteboard wednesdays).
+ - Open sessions may be filled by any mentor.  It is useful if you can claim open sessions a few days ahead of time so students know what support to expect, but they may be claimed as you walk in the door.
+ - If there are no open sessions available on the time you want to mentor, you may request that additional sessions be created.
 
 - See the video below for specific instructions. **coming soon**
+
+#### Finding Coverage For Sessions:
+- You must find coverage for sessions you no longer want to work, with the exceptions of personal emergencies (including interview requests). Use the mentor email list (mentors.sf@devbootcamp.com) to find coverage.
+- Once someone has offered to pick up your session, you need to delete yourself from the DBC::SF Mentor calendar (NOT YOUR PERSONAL CALENDAR).  This will open up the session on the Mentor Calendar and the other mentor can sign up.
+
+ 1. Go to your Google calendar page and make sure that the DBC::SF Mentor Calendar is the only one selected. If you have your personal calendar displayed as well, you may inadvertantly delete the session from your personal calendar instead of the DBC calendar. Your old session WILL STILL BE VISIBLE on the DBC calendar, even though it is gone from your own calendar. You need to be sure to delete directly from the DBC calendar for this reason.
+ 2. Click on the session you need to delete and then click the "Delete" link.
+ 3. A pop-up will appear - Choose either "Delete and update guests" or "Delete without updating", it doesn't matter.
+ 4. Inform the person picking up your session that it's now available on the calendar.
 
 #### Before Your Shift:
 - Review the challenges the students will be working by checking each of their phase guides. You can access these through the mentor GitHub account.
 
 #### During Your Shift:
-- Write your name and shift time on the board.
+- Write your name and session time on the board.
 - Let the students know you're available.
 - Sit at one of the small tables at the end of the student workstations so you're easily accessible.
 - Check frequently for post-it flags on the computers.
@@ -50,21 +60,14 @@ New Mentor [On boarding Guide](https://docs.google.com/document/d/1M-0K1eJF2NYSP
 - Remove your name from the board.
 - Complete [End of Session Survey](https://docs.google.com/a/devbootcamp.com/forms/d/1bNIBtgy2ephY5117eHa31iFVgVRxPJAA0zzyeEqvTlA/viewform)
 
-#### Finding Coverage For Shifts:
-- You must find coverage for shifts you no longer want to work, with the exceptions of personal emergencies (including interview requests). Use the mentor email list (mentors.sf@devbootcamp.com) to find coverage.
-- Once someone has offered to pick up your shift, you need to delete yourself from the DBC::SF Mentor calendar (NOT YOUR PERSONAL CALENDAR).  This will open up the shift on the Mentor Calendar and the other mentor can sign up.
-
- 1. Go to your Google calendar page and make sure that the DBC::SF Mentor Calendar is the only one selected. If you have your personal calendar displayed as well, you may inadvertantly delete the shift from your personal calendar instead of the DBC calendar. Your old shift WILL STILL BE VISIBLE on the DBC calendar, even though it is gone from your own calendar. You need to be sure to delete directly from the DBC calendar for this reason.
- 2. Click on the shift you need to delete and then click the "Delete" link.
- 3. A pop-up will appear - Choose either "Delete and update guests" or "Delete without updating", it doesn't matter.
- 4. Inform the person picking up your shift that it's now available on the calendar.
 
 #### How To Submit Your Hours in Workday
+[Video Demo](https://drive.google.com/file/d/0B7uFhzfRtRRGSWlaWk1MS0ttb3gzaWJYenp3dlhPYl9nM253/view?usp=sharing)
+
 1. Login
 2. Go to the Time page
-3. Submit daily shift totals from the SF Mentor Calendar
+3. Submit daily session totals from the SF Mentor Calendar
 
-[Video Demo](https://drive.google.com/file/d/0B7uFhzfRtRRGSWlaWk1MS0ttb3gzaWJYenp3dlhPYl9nM253/view?usp=sharing)
 
 
 #### Giving and Receiving Feedback:
@@ -77,7 +80,7 @@ Mentor meetings led by the Coordinator will occur on the first Monday of each ph
 #### How To Claim A Pull Request For A Code Review:
 1. Click on the notifications icon in the upper right hand corner. Select "All Notifications" in the left-hand menu and check for any notifications that does not have the wizard hat image next to the timestamp ("4 days ago", "1 hour ago", etc).
 2. Click on the un-wizard-hatted pull request and check to be sure an instructor hasn't already reviewed the code in the commments. If no one has commented yet, leave a note with your name stating that you'll do the code review.
-3. Complete this during your shift - please do not leave the students hanging until the next time you work.
+3. Complete this during your session - please do not leave the students hanging until the next time you work.
 4. Do not work on code that has already been claimed.
 
 #### How To Complete A Code Review:
