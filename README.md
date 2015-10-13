@@ -100,7 +100,8 @@ If you book a session on the calendar but are unable to make it:
 
 ### Code Review
 
-Mentors are encouraged to give code review if they experience downtime during their scheduled hours.
+Mentors are required to complete code reviews for students. Minimum 5 per phase.
+Downtime during scheduled hours is a great time to knock this out.
 
 #### How To Claim A Pull Request For A Code Review:
 Sign in using the DBC-SF-Mentor GitHub account.
