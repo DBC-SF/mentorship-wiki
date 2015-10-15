@@ -3,10 +3,10 @@
 ## Table of Contents:
   - [F.A.Q.](#faq)
   - [Sessions](#sessions)
-  - [General Guidelines](#during-your-session)
+  - [General Guidelines](#during-a-session)
   - [Feedback](#giving-and-receiving-feedback)
   - [Submit Hours in Workday](#how-to-submit-your-hours-in-workday)
-  - [Meetings](#optional-meetings)
+  - [Meetings](#meetings)
   - [Code Review](#code-review)
 
 *****
