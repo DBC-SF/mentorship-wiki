@@ -70,7 +70,7 @@ If you book a session on the calendar but are unable to make it:
 #### During Your Session:
 - Write your name and session time on the board.
 - Let the students know you're available.
-- Sit at one of the small tables at the end of the student workstations so you're easily accessible.
+- Sit at one of the tables at the end of the student workstations so you're easily accessible.
 - Check frequently for post-it flags on the computers.
 - Take walks up and down the aisles every so often - some students don't ask questions unless you pass by.
 - Nudge them in the right direction but don't give them the answer. Use your laptop to look up solutions from past cohorts if you're stuck.
@@ -81,6 +81,16 @@ If you book a session on the calendar but are unable to make it:
 #### After Your Session:
 - Remove your name from the board.
 - Complete the [End of Session](https://docs.google.com/a/devbootcamp.com/forms/d/1bNIBtgy2ephY5117eHa31iFVgVRxPJAA0zzyeEqvTlA/viewform) form.
+
+#### Fixed Sessions:
+Fixed sessions are workshops conducted by a Mentor. They can occur anytime after 6 on weekdays, or anytime over the weekend. Once scheduled, a fixed session should occur at the same time and interval. Mentors working on a fixed session may bill a limited number of 'prep hours' in addition to the actual time of the session.
+
+There are several fixed sessions available. If someone hasn't claimed a session you are interested in email the Mentor Coordinator to discuss picking it up.
+  - White-boarding Wednesdays (John Akers)
+  - Intro to Git Workflow - Week 2 Monday (Cari Westbrook)
+  - Intro to Sinatra - Phase transition Sunday (Jason Lo)
+  - Intro to Javascript
+  - Intro to Rails
 
 #### Weekly Responsibilities:
 - Complete the [Mentor Survey](https://docs.google.com/a/devbootcamp.com/forms/d/1aYZX7t737QJcIxmb25DCwcYPzKsxzgmiz_COOHjxj0I/viewform)
