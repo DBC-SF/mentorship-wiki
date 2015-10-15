@@ -1,6 +1,6 @@
 # Mentors Wiki
 
-##Table of Contents:
+## Table of Contents:
   - [F.A.Q.](#faq)
   - [Sessions](#sessions)
   - [General Guidelines](#during-your-session)
@@ -11,12 +11,15 @@
 
 *****
 
-#### Info and Links:
+### General
+
+#### Contact Info:
+
+Email List: mentors.sf@devbootcamp.com
+
 Mentor Coordinator: [Hunter T. Chapman](hunter@devbootcamp.com)
 
-Email List: mentors.sf@devbootcamp.com **(Pending)**
-
-**Links**
+#### Quick Links:
 
 - [On boarding Guide](https://docs.google.com/document/d/1M-0K1eJF2NYSPI1TBqa0s0RKvVpzSnTnybIFJcH-wyc/edit?usp=sharing)
 
@@ -26,11 +29,12 @@ Email List: mentors.sf@devbootcamp.com **(Pending)**
 
 - [Give a Mentor Feedback](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform)
 
-#### Monthly Responsibilities:
-- Work 5 hours
-- Complete 5 code reviews
+#### Recurring Responsibilities:
+**Monthly**
+- Work at least 5 hours
+- Complete a minimum 5 code reviews
 
-#### Weekly Responsibilities:
+**Weekly**
 - Complete the [Mentor Survey](https://docs.google.com/a/devbootcamp.com/forms/d/1aYZX7t737QJcIxmb25DCwcYPzKsxzgmiz_COOHjxj0I/viewform)
 - [Submit Hours in Workday](#how-to-submit-your-hours-in-workday)
 
@@ -48,9 +52,21 @@ Access Issues: Ensure that you have accepted the invitation from Github for each
 - 1st Monday of Phase @ 6:15 -- Mentor powwow with Mentor Coordinator. Feel free to attend if you have questions or concerns.
 - 1st Monday of Phase @ 7:00 -- Meet the Mentors for incoming Cohort.
 
+#### How To Submit Your Hours in Workday:
+[Video Demo](https://drive.google.com/file/d/0B7uFhzfRtRRGSWlaWk1MS0ttb3gzaWJYenp3dlhPYl9nM253/view?usp=sharing)
+
+1. Login
+2. Go to the Time page
+3. Submit daily session totals from the SF Mentor Calendar
+
+#### Removal from the program:
+Mentors are expected to uphold the three agreements and location specific rules at all times. Failure to do so will result in removal from the program.
+
+Mentors are expected to work at least 5 hours a month to remain active in the program. Mentors working less than this will be contacted and asked to increase their hours or to retire from the program if they do not wish to work the minimum. Retired mentors can re-apply to the program at a later time. If require a short term waiver (vacation, travel, etc) contact the Mentor Coordinator.
+
 ## Sessions
 
-A session is time that you book to Mentor @ DBC. If you book a session you are expected to show up for that time slot. Session booking will be cross-referenced to your Workday submissions.
+A session is time that you book to Mentor @ DBC. If you book a session you are expected to show up for that time slot. Session bookings will be cross-referenced to your Workday submissions.
 
 #### Signing Up For Sessions:
 Mentors are added to the Mentor Appointments Calendar after they are accepted to the program. If you cannot access this Google calendar, email the Mentor Coordinator for assistance.
@@ -74,10 +90,10 @@ If you book a session on the calendar but are unable to make it:
   1. Go to your Google calendar page and make sure that the DBC::SF Mentor Calendar is the only one selected. If you have your personal calendar displayed as well, you may inadvertently delete the session from your personal calendar instead of the DBC calendar. This means your old session WILL STILL BE VISIBLE on the DBC calendar, even though it is gone from your own calendar. You need to be sure to delete directly from the DBC calendar.
   2. Click on the session you need to delete and then click the "Delete" link.
 
-#### Before Your Session:
+#### Before A Session:
 - Review the challenges the students will be working by checking each of their phase guides. You can access these through the mentor GitHub account.
 
-#### During Your Session:
+#### During A Session:
 - Write your name and session time on the board.
 - Let the students know you're available.
 - Sit at one of the tables at the end of the student workstations so you're easily accessible.
@@ -88,7 +104,7 @@ If you book a session on the calendar but are unable to make it:
 - Additionally, you can do code reviews. See [below](#how-to-claim-a-pull-request-for-a-code-review) for instructions on how to do code reviews.
 - If you're getting a lot of the same questions, consider doing a breakout on a topic. Check to see if the students would like one, and consider checking in with the phase and/or cohort lead to see if there's any info from their lecture that they would like you to reinforce.
 
-#### After Your Session:
+#### After A Session:
 - Remove your name from the board.
 - Complete the [End of Session](https://docs.google.com/a/devbootcamp.com/forms/d/1bNIBtgy2ephY5117eHa31iFVgVRxPJAA0zzyeEqvTlA/viewform) form.
 
@@ -101,15 +117,7 @@ There are several fixed sessions available. If someone hasn't claimed a session 
   - Intro to Sinatra - Phase transition Sunday (Jason Lo)
   - Intro to Javascript
   - Intro to Rails
-
-
-#### How To Submit Your Hours in Workday:
-[Video Demo](https://drive.google.com/file/d/0B7uFhzfRtRRGSWlaWk1MS0ttb3gzaWJYenp3dlhPYl9nM253/view?usp=sharing)
-
-1. Login
-2. Go to the Time page
-3. Submit daily session totals from the SF Mentor Calendar
-
+  - ... (Suggestions Welcome)
 
 ### Code Review
 
@@ -127,11 +135,6 @@ Downtime during scheduled hours is a great time to knock this out.
 2. Review the code in green, which indicates the changes that were made by the student to the file. Code in white was provided to them as part of the challenge.
 3. Leave a comment in-line by clicking on the plus sign of the line in question and filling out the comment box.
 4. When finished, click on the "Conversations" link and fill out a final summary comment ("Good job", "Here's a resource you may find useful", etc). Click "Close and Comment".
-
-#### Removal from the program:
-Mentors are expected to uphold the three agreements and location specific rules at all times.  Failure to do so will result in removal from the program.
-
-Mentors are expected to work at least 5 hours a month to remain active in the program.  Mentors working less than this will be contacted and asked to increase their hours or to retire from the program if they do not wish to work the minimum.  Retired mentors can re-apply to the program at a later time.
 
 ### FAQ
 
@@ -168,7 +171,7 @@ _Are there opportunities for title advancement/pay increase?_
 
 Currently there are no opportunities for title advancement or pay increase. Mentors that have been doing particular activities will be given preference for doing these.
 
-There may be title advancement in the future - we’ll need to get the program up and running first.
+There may be title advancement in the future - We’ll need to get the program up and running first.
 
 There will not be opportunities for pay increase.
 
