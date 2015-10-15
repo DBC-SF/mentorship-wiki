@@ -48,9 +48,9 @@ Access Issues: Ensure that you have accepted the invitation from Github for each
 - Student feedback for Mentors will be collected during the weekly retro survey.
 - You are required to solicit some student feedback each phase you work. This feedback will be reviewed by the Mentor Coordinator. Use the Give a [Mentor feedback form](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform). This link will also be in the students guide.
 
-#### Optional Meetings:
-- 1st Monday of Phase @ 6:15 -- Mentor powwow with Mentor Coordinator. Feel free to attend if you have questions or concerns.
-- 1st Monday of Phase @ 7:00 -- Meet the Mentors for incoming Cohort.
+#### Meetings:
+- 1st Monday of Phase @ 6:15 -- Optional powwow with Mentor Coordinator. Feel free to attend if you have questions or concerns.
+- 1st Monday of Phase @ 7:00 -- Meet the Mentors for incoming Cohort. Need 4-8 Mentors to attend each phase.
 
 #### How To Submit Your Hours in Workday:
 [Video Demo](https://drive.google.com/file/d/0B7uFhzfRtRRGSWlaWk1MS0ttb3gzaWJYenp3dlhPYl9nM253/view?usp=sharing)
