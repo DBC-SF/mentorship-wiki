@@ -90,10 +90,10 @@ If you book a session on the calendar but are unable to make it:
   1. Go to your Google calendar page and make sure that the DBC::SF Mentor Calendar is the only one selected. If you have your personal calendar displayed as well, you may inadvertently delete the session from your personal calendar instead of the DBC calendar. This means your old session WILL STILL BE VISIBLE on the DBC calendar, even though it is gone from your own calendar. You need to be sure to delete directly from the DBC calendar.
   2. Click on the session you need to delete and then click the "Delete" link.
 
-#### Before A Session:
+#### Before a Session:
 - Review the challenges the students will be working by checking each of their phase guides. You can access these through the mentor GitHub account.
 
-#### During A Session:
+#### During a Session:
 - Write your name and session time on the board.
 - Let the students know you're available.
 - Sit at one of the tables at the end of the student workstations so you're easily accessible.
@@ -104,17 +104,23 @@ If you book a session on the calendar but are unable to make it:
 - Additionally, you can do code reviews. See [below](#how-to-claim-a-pull-request-for-a-code-review) for instructions on how to do code reviews.
 - If you're getting a lot of the same questions, consider doing a breakout on a topic. Check to see if the students would like one, and consider checking in with the phase and/or cohort lead to see if there's any info from their lecture that they would like you to reinforce.
 
-#### After A Session:
+#### After a Session:
 - Remove your name from the board.
 - Complete the [End of Session](https://docs.google.com/a/devbootcamp.com/forms/d/1bNIBtgy2ephY5117eHa31iFVgVRxPJAA0zzyeEqvTlA/viewform) form.
 
 #### Fixed Sessions:
-Fixed sessions are workshops conducted by a Mentor. They can occur anytime after 6 on weekdays, or anytime over the weekend. Once scheduled, a fixed session should occur at the same time and interval. Mentors working on a fixed session may bill a limited number of 'prep hours' in addition to the actual time of the session.
+Fixed sessions are workshops conducted by a Mentor. They can occur anytime after 6 on weekdays, or anytime over the weekend.
+
+Taking on a Fixed session means taking on additional responsibilities.
+
+Once scheduled, a fixed session should occur at the same time and interval. Changes or substitutions need to be discussed with the Mentor Coordinator in advance.
+
+Mentors working on a fixed session may bill a limited number of 'prep hours' in addition to the actual time of the session.
 
 There are several fixed sessions available. If someone hasn't claimed a session you are interested in email the Mentor Coordinator to discuss picking it up.
-  - White-boarding Wednesdays (John Akers)
-  - Intro to Git Workflow - Week 2 Monday (Cari Westbrook)
-  - Intro to Sinatra - Phase transition Sunday (Jason Lo)
+  - White-boarding Wednesdays **John Akers**
+  - Intro to Git Workflow - Week 2 Monday **Cari Westbrook**
+  - Intro to Sinatra - Phase transition Sunday **Jason Lo**
   - Intro to Javascript
   - Intro to Rails
   - ... (Suggestions Welcome)
@@ -161,7 +167,7 @@ The Commuter Benefits Program allows you to set aside pre-tax money for out-of-p
 
 _For things like coordinating the phase transition workshop (Intro to Sinatra), how does that fit into the booking sessions?_
 
-We have Fixed Sessions on the calendar for existing events.  These will be pre-assigned to the main person (though if that person can’t do it they can pass it off). For example Whiteboard Wednesday will be a pre-assigned Fixed Session that is automatically assigned to Amelia (or John). Also Sinatra Workshop would be on the Fixed Session.  The mentor who wants to run this would need to connect with the Mentor Coordinator to set the time and day.
+We have Fixed Sessions on the calendar for existing events.  These will be pre-assigned to the main person (though if that person can’t do it they can pass it off). For example Whiteboard Wednesday will be a pre-assigned Fixed Session that is automatically assigned to John. Also the Sinatra Workshop would be a Fixed Session. The mentor who wants to run one of these would need to connect with the Mentor Coordinator to set the time and day.
 
 If there are additional Fixed Sessions that any mentor would like to have - they can request this from the Mentor Coordinator who will assess the number of mentoring hours available against the need for such a session.
 
@@ -171,11 +177,9 @@ _Are there opportunities for title advancement/pay increase?_
 
 Currently there are no opportunities for title advancement or pay increase. Mentors that have been doing particular activities will be given preference for doing these.
 
-There may be title advancement in the future - We’ll need to get the program up and running first.
+There may be title advancement in the future - Need to get the program up and running first.
 
 There will not be opportunities for pay increase.
-
-
 
 ## Anything Else...
 If there is something that should be covered here please email the Mentor Coordinator or open a PR.
