@@ -29,6 +29,8 @@ Mentor Coordinator: [Hunter T. Chapman](hunter@devbootcamp.com)
 
 - [Give a Mentor Feedback](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform)
 
+- [Student Facing Info](student-facing-mentors.md)
+
 #### Recurring Responsibilities:
 **Monthly**
 - Work at least 5 hours
