@@ -42,7 +42,7 @@ Mentor Coordinator: [Hunter T. Chapman](hunter@devbootcamp.com)
 - [Submit Hours in Workday](#how-to-submit-your-hours-in-workday)
 
 #### Access to Cohort Orgs:
-You need access to Cohort Orgs to perform code reviews and general insight of material on a phase. To accomplish this you have been added to the SF-Mentors team on GitHub. This team will be invited to each incoming cohort org, granting you full access to all material therein.
+You need access to Cohort Orgs to perform code reviews and gain general insight of material on a phase. To accomplish this you have been added to the SF-Mentors team on GitHub. This team will be invited to each incoming cohort org, granting you full access to all material therein.
 
 Access Issues: Ensure that you have accepted the invitation from Github for each active Cohort, else contact Mentor Coordinator.
 
