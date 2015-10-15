@@ -3,7 +3,7 @@
 [Submit Mentor Feedback](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform)
 
 ## Who are the Mentors?
-* Mentors are alumni who **volunteer** to come in and help current students. They are here to support you culturally, emotionally and technically. We pay them a little, but mostly they are here because they care about preserving the culture of DBC and contributing to your kick ass education.
+* Mentors are alumni who **volunteer their time** to come in and help current students. They are here to support you culturally, emotionally and technically. We pay them a little, but mostly they are here because they care about preserving the culture of DBC and contributing to your kick ass education.
 
 
 ## Where do I find Mentors?
@@ -31,16 +31,16 @@ Their primary directive is to assist in cultivating your ability to diagnose, de
 
 Mentors are not Gods. They are former students. They have a high degree of empathy towards boots, having been exactly where you are now not too long ago.
 
-Moral: _They do not know everything_ (Protip: NOBODY DOES!).
+Moral: _Mentors do not know everything_ (Protip: NOBODY DOES!).
 
 So take what you can from each interaction and make the rest happen by whatever means necessary.
 
 ## Feedback
-* If you had a session with a Mentor, please take just a minute to give them [Feedback](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform).
+* If you had a session with a Mentor, please take a minute to give them [Feedback](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform).
 
 ## How often do Mentors come in?
 * You can expect to see at least one Mentor during the day, After that it's really up to them, so please be kind.
 
 ## How can I become a Mentor?
 * Practice mentoring Phase 1 and 2 students while you are in Phase 3.
-* Contact a Member of DBC Teaching Staff.
+* Contact a member of DBC Teaching Staff.
