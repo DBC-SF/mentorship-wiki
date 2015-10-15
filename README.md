@@ -26,8 +26,18 @@ Email List: mentors.sf@devbootcamp.com **(Pending)**
 
 - [Give a Mentor Feedback](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform)
 
-#### Access to Phase Repo
-For the purposes of code review and general review of the material you have been added to the SF-Mentors team on GitHub. This team will be invited to each incoming cohort org, granting you full access to all material therein. If you have any issues accessing a cohort org please contact the Mentor Coordinator.
+#### Monthly Responsibilities:
+- Work 5 hours
+- Complete 5 code reviews
+
+#### Weekly Responsibilities:
+- Complete the [Mentor Survey](https://docs.google.com/a/devbootcamp.com/forms/d/1aYZX7t737QJcIxmb25DCwcYPzKsxzgmiz_COOHjxj0I/viewform)
+- [Submit Hours in Workday](#how-to-submit-your-hours-in-workday)
+
+#### Access to Cohort Orgs:
+You need access to Cohort Orgs to perform code reviews and general insight of material on a phase. To accomplish this you have been added to the SF-Mentors team on GitHub. This team will be invited to each incoming cohort org, granting you full access to all material therein.
+
+Access Issues: Ensure that you have accepted the invitation from Github for each active Cohort, else contact Mentor Coordinator.
 
 #### Giving and Receiving Feedback:
 - Complete the [Weekly Mentor Survey](https://docs.google.com/a/devbootcamp.com/forms/d/1aYZX7t737QJcIxmb25DCwcYPzKsxzgmiz_COOHjxj0I/viewform) weekly to talk about your experiences.
@@ -40,14 +50,14 @@ For the purposes of code review and general review of the material you have been
 
 ## Sessions
 
-A session is time that you book to Mentor @ DBC. If you book a session you are expected to show up for that time slot.
+A session is time that you book to Mentor @ DBC. If you book a session you are expected to show up for that time slot. Session booking will be cross-referenced to your Workday submissions.
 
 #### Signing Up For Sessions:
 Mentors are added to the Mentor Appointments Calendar after they are accepted to the program. If you cannot access this Google calendar, email the Mentor Coordinator for assistance.
 
-- Mentor sessions are created on the Mentor Appointments Calendar.
-- Some sessions are assigned by the Mentor Coordinator either because they are phase specific sessions during core hours, or a particular mentor has requested to own that session (IE. white-boarding Wednesdays).
-- It is useful if you book sessions a few days ahead of time so students know what support to expect, but they may be claimed as you walk in the door.
+- Mentor sessions can be created on the Mentor Appointments Calendar.
+- Some sessions are assigned by the Mentor Coordinator or Phase Lead either because they are phase specific sessions during core hours, or a particular mentor has requested to own that session (IE. white-boarding Wednesdays).
+- It is useful if you book sessions a few days ahead of time so students and other Mentors know what support to expect, but they may be claimed as you walk in the door.
 
 - See the video below for a demo. **coming soon**
 
@@ -92,9 +102,6 @@ There are several fixed sessions available. If someone hasn't claimed a session 
   - Intro to Javascript
   - Intro to Rails
 
-#### Weekly Responsibilities:
-- Complete the [Mentor Survey](https://docs.google.com/a/devbootcamp.com/forms/d/1aYZX7t737QJcIxmb25DCwcYPzKsxzgmiz_COOHjxj0I/viewform)
-- Submit hours worked via Workday
 
 #### How To Submit Your Hours in Workday:
 [Video Demo](https://drive.google.com/file/d/0B7uFhzfRtRRGSWlaWk1MS0ttb3gzaWJYenp3dlhPYl9nM253/view?usp=sharing)
