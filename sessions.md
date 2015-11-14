@@ -38,8 +38,9 @@ Mentors working on a fixed session may bill a limited number of 'prep hours' in 
 There are several fixed sessions available. If someone hasn't claimed a session you are interested in email the Mentor Coordinator to discuss picking it up.
   - White-boarding Wednesdays **John Akers**
   - Intro to Git Workflow - Week 2 Monday **Cari Westbrook**
+  - Advanced Git Workflow including rebase - **Cari Westbrook?**
   - Intro to Sinatra - Phase transition Sunday **Jason Lo**
-  - Intro to Javascript
+  - Intro to Javascript Week 1 weekend **Stephanie Hutson**
   - Intro to Rails
   - ... (Suggestions Welcome)
 

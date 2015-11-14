@@ -23,9 +23,9 @@ Mentor Coordinator: [Hunter T. Chapman](hunter@devbootcamp.com)
 
 - [On boarding Guide](https://docs.google.com/document/d/1M-0K1eJF2NYSPI1TBqa0s0RKvVpzSnTnybIFJcH-wyc/edit?usp=sharing)
 
-- [End of Session](https://docs.google.com/a/devbootcamp.com/forms/d/1bNIBtgy2ephY5117eHa31iFVgVRxPJAA0zzyeEqvTlA/viewform)
+- [End of Session Form](https://docs.google.com/a/devbootcamp.com/forms/d/1bNIBtgy2ephY5117eHa31iFVgVRxPJAA0zzyeEqvTlA/viewform)
 
-- [Weekly Survey](https://docs.google.com/a/devbootcamp.com/forms/d/1aYZX7t737QJcIxmb25DCwcYPzKsxzgmiz_COOHjxj0I/viewform)
+- [Weekly Survey Form](https://docs.google.com/a/devbootcamp.com/forms/d/1aYZX7t737QJcIxmb25DCwcYPzKsxzgmiz_COOHjxj0I/viewform)
 
 - [Give a Mentor Feedback](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform)
 
@@ -42,14 +42,14 @@ Mentor Coordinator: [Hunter T. Chapman](hunter@devbootcamp.com)
 - [Submit Hours in Workday](#how-to-submit-your-hours-in-workday)
 
 #### Access to Cohort Orgs:
-You need access to Cohort Orgs to perform code reviews and gain general insight of material on a phase. To accomplish this you have been added to the SF-Mentors team on GitHub. This team will be invited to each incoming cohort org, granting you full access to all material therein.
+You need access to Cohort Orgs to perform code reviews and gain general insight of material on a phase. To accomplish this you have been added to the SF-Mentors team on GitHub. This team will be invited to each incoming Cohort Org, granting you full access to all material therein.
 
 Access Issues: Ensure that you have accepted the invitation from Github for each active Cohort, else contact Mentor Coordinator.
 
 #### Giving and Receiving Feedback:
 - Complete the [Weekly Mentor Survey](https://docs.google.com/a/devbootcamp.com/forms/d/1aYZX7t737QJcIxmb25DCwcYPzKsxzgmiz_COOHjxj0I/viewform) weekly to talk about your experiences.
 - Student feedback for Mentors will be collected during the weekly retro survey.
-- You are required to solicit some student feedback each phase you work. This feedback will be reviewed by the Mentor Coordinator. Use the Give a [Mentor feedback form](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform). This link will also be in the students guide.
+- You are required to solicit some student feedback each phase you work. This feedback will be reviewed by the Mentor Coordinator. Use the give a [Mentor feedback form](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform). This link will also be in the students guide.
 
 #### Meetings:
 - 1st Monday of Phase @ 6:15 -- Optional powwow with Mentor Coordinator. Feel free to attend if you have questions or concerns.
