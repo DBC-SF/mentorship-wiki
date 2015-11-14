@@ -15,7 +15,7 @@
 
 #### Contact Info:
 
-Email List: mentors.sf@devbootcamp.com
+Email List: sf.mentors@devbootcamp.com
 
 Mentor Coordinator: [Hunter T. Chapman](hunter@devbootcamp.com)
 
