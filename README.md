@@ -21,7 +21,7 @@ Mentor Coordinator: [Hunter T. Chapman](hunter@devbootcamp.com)
 
 #### Quick Links:
 
-- [On boarding Guide](https://docs.google.com/document/d/1M-0K1eJF2NYSPI1TBqa0s0RKvVpzSnTnybIFJcH-wyc/edit?usp=sharing)
+- [On boarding Guide](onboarding.md)
 
 - [End of Session Form](https://docs.google.com/a/devbootcamp.com/forms/d/1bNIBtgy2ephY5117eHa31iFVgVRxPJAA0zzyeEqvTlA/viewform)
 
