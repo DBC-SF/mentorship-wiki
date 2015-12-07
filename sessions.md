@@ -17,9 +17,10 @@ Mentors are added to the Mentor Appointments Calendar after they are accepted to
 It is your responsibility to ensure your session does not exceed these limits. Any work outside these limits will not be deemed billable hours.
 
 - **Maximum of 5 Mentors** can book after hours sessions each day.
-- **Maximum of 5 Hours Per Days** Unless a specific waiver is granted by the Mentor Coordinator.
+- **Maximum of 5 hours** per day unless a specific waiver is granted by the Mentor Coordinator.
 - **Maximum of 20 hours** per week for each Mentor.
-- There is also a weekly maximum for all Mentors see the [FAQ](faq.md).
+- **Maximum of 100 hours** per week [Mentor Calendar Hours](http://google-calendar-hours.com/).
+- See more in the [FAQ](faq.md).
 
 #### Finding Coverage For Sessions:
 If you book a session on the calendar but are unable to make it:

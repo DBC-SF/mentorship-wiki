@@ -31,6 +31,18 @@ Mentor Coordinator: [Hunter T. Chapman](hunter@devbootcamp.com)
 
 - [Student Facing Info](student-facing-mentors.md)
 
+
+#### Scheduling Constraints:
+It is your responsibility to ensure your session does not exceed these limits. Any work outside these limits will not be deemed billable hours.
+
+- **Maximum of 5 Mentors** can book after hours sessions each day.
+- **Maximum of 5 hours** per day unless a specific waiver is granted by the Mentor Coordinator.
+- **Maximum of 20 hours** per week for each Mentor.
+- **Maximum of 100 hours** per week [Mentor Calendar Hours](http://google-calendar-hours.com/).
+- This cap is dynamic and will be adjusted as needed by the Mentor Coordinator.
+- Additional Info in the [FAQ](faq.md).
+
+
 #### Recurring Responsibilities:
 
 **Monthly**
