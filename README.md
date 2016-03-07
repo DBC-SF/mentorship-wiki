@@ -36,9 +36,10 @@ Mentor Coordinator: Hunter T. Chapman <hunter@devbootcamp.com>
 It is your responsibility to ensure your session does not exceed these limits. Any work outside these limits will not be deemed billable hours.
 
 - **Maximum of 5 Mentors** can book after hours sessions each day.
-- **Maximum of 4 hours** per day unless a specific waiver is granted by the Mentor Coordinator.
+- **Maximum of 4 hours** per day for evening Mentors unless a specific waiver is granted by the Mentor Coordinator.
+- **Maximum of 6 hours** per day for day side Mentors.
 - **Maximum of 20 hours** per week for each Mentor.
-- **Maximum of 120 hours** per week for all Mentors. Find current status @ [Mentor Calendar Hours](http://google-calendar-hours.com/).
+- **Maximum of 120 hours** per week for **all Mentors**. Find current status @ [Mentor Calendar Hours](http://google-calendar-hours.com/).
 - This cap is dynamic and will be adjusted as needed by the Mentor Coordinator.
 - Additional Info in the [FAQ](faq.md).
 
