@@ -11,6 +11,7 @@
  - (3) **_Direct Deposit_** - Requires bank information.
  - (4) **_WOTC_** - A requirement for employer tax credits.
 1. **+7 Days**: New Hire will receive a notification to fill out the **State tax withholdings form**.  The new hire should fill out the form for their state of residence and email it to proll@kaplan.edu.
+1. **+7 Days**: Attend Mentor Onboarding @DBC. Date included in your original acceptance letter. You MUST attend to complete Mentor Onboarding.
 
 ## FAQs
 
