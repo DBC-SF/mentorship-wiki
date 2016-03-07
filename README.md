@@ -17,7 +17,7 @@
 
 Email List: sf.mentors@devbootcamp.com
 
-Mentor Coordinator: [Hunter T. Chapman](hunter@devbootcamp.com)
+Mentor Coordinator: Hunter T. Chapman <hunter@devbootcamp.com>
 
 #### Quick Links:
 
@@ -36,9 +36,9 @@ Mentor Coordinator: [Hunter T. Chapman](hunter@devbootcamp.com)
 It is your responsibility to ensure your session does not exceed these limits. Any work outside these limits will not be deemed billable hours.
 
 - **Maximum of 5 Mentors** can book after hours sessions each day.
-- **Maximum of 5 hours** per day unless a specific waiver is granted by the Mentor Coordinator.
+- **Maximum of 4 hours** per day unless a specific waiver is granted by the Mentor Coordinator.
 - **Maximum of 20 hours** per week for each Mentor.
-- **Maximum of 100 hours** per week [Mentor Calendar Hours](http://google-calendar-hours.com/).
+- **Maximum of 120 hours** per week for all Mentors. Find current status @ [Mentor Calendar Hours](http://google-calendar-hours.com/).
 - This cap is dynamic and will be adjusted as needed by the Mentor Coordinator.
 - Additional Info in the [FAQ](faq.md).
 
@@ -54,9 +54,11 @@ It is your responsibility to ensure your session does not exceed these limits. A
 - [Submit Hours in Workday](#how-to-submit-your-hours-in-workday)
 
 #### Access to Cohort Orgs:
-You need access to Cohort Orgs to perform code reviews and gain general insight of material on a phase. To accomplish this you have been added to the SF-Mentors team on GitHub. This team will be invited to each incoming Cohort Org, granting you full access to all material therein.
+You need access to Cohort Orgs to perform code reviews and gain general insight of material on a phase.
 
-Access Issues: Ensure that you have accepted the invitation from Github for each active Cohort, else contact Mentor Coordinator.
+Currently - If you are working a phase and require access to the org email the Mentor Coordinator to be added in.
+
+Future Goal -- To accomplish this you have been added to the SF-Mentors team on GitHub. This team will be invited to each incoming Cohort Org, granting you full access to all material therein. Access Issues: Ensure that you have accepted the invitation from Github for each active Cohort, else contact Mentor Coordinator.
 
 #### Giving and Receiving Feedback:
 - Complete the [Weekly Mentor Survey](https://docs.google.com/a/devbootcamp.com/forms/d/1aYZX7t737QJcIxmb25DCwcYPzKsxzgmiz_COOHjxj0I/viewform) weekly to talk about your experiences.
@@ -77,7 +79,7 @@ Access Issues: Ensure that you have accepted the invitation from Github for each
 #### Removal from the program:
 Mentors are expected to uphold the three agreements and location specific rules at all times. Failure to do so will result in removal from the program.
 
-Mentors are expected to work at least 5 hours a month to remain active in the program. Mentors working less than this will be contacted and asked to increase their hours or to retire from the program if they do not wish to work the minimum. Retired mentors can re-apply to the program at a later time. If require a short term waiver (vacation, travel, etc) contact the Mentor Coordinator.
+Mentors are expected to work at least 5 hours a month to remain active in the program. Mentors working less than this will be contacted and asked to increase their hours or to retire from the program if they do not wish to work the minimum. Retired mentors can re-apply to the program at a later time. If you require a short term waiver (vacation, travel, etc) contact the Mentor Coordinator.
 
 
 

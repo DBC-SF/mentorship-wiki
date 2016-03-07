@@ -31,25 +31,24 @@ If you book a session on the calendar but are unable to make it:
 #### Fixed Sessions:
 Fixed sessions are workshops conducted by a Mentor. They can occur anytime after 6 on weekdays, or anytime over the weekend.
 
-Taking on a Fixed session means taking on additional responsibilities.
+Taking on a Fixed session means taking on additional responsibilities. Mentors working on a fixed session may bill a limited number of 'prep hours' in addition to the actual time of the session.
 
-Once scheduled, a fixed session should occur at the same time and interval. Changes or substitutions need to be discussed with the Mentor Coordinator in advance.
-
-Mentors working on a fixed session may bill a limited number of 'prep hours' in addition to the actual time of the session.
+Once scheduled, a fixed session should occur roughly at the same time and interval. Changes or substitutions need to be discussed with the Mentor Coordinator in advance. You may consider pairing with another Mentor for these, thus allowing some degree of flexibility while maintaining consistent deliver to students.
 
 There are several fixed sessions available. If someone hasn't claimed a session you are interested in email the Mentor Coordinator to discuss picking it up.
   - White-boarding Wednesdays **John Akers**
-  - Intro to Git Workflow - Week 2 Monday **Cari Westbrook**
-  - Advanced Git Workflow including rebase - **Cari Westbrook?**
-  - Intro to Sinatra - Phase transition Sunday **Jason Lo**
   - Intro to Javascript Week 1 weekend **Stephanie Hutson**
-  - Intro to Rails
+  - Intro to Sinatra - Phase transition weekend **Jason Lo**
+  - Intro to Git Workflow - Week 2 Monday **OPEN**
+  - Advanced Git Workflow including rebase - **OPEN**
+  - Intro to Rails - Phase transition weekend **OPEN**
+  - Intro to JS Framework (your choice) - Week 2 weekend **OPEN**
   - ... (Suggestions Welcome)
 
 ### Session Cadence:
 
 #### Before a Session:
-- Review the challenges the students will be working by checking each of their phase guides. You can access these through the mentor GitHub account.
+- Review the challenges the students will be working by checking each of their phase guides. You can access these through your GitHub account. If you do not have access email the Mentor Coordinator.
 
 #### During a Session:
 - Write your name and session time on the board.
@@ -59,8 +58,8 @@ There are several fixed sessions available. If someone hasn't claimed a session 
 - Take walks up and down the aisles every so often - some students don't ask questions unless you pass by.
 - Nudge them in the right direction but don't give them the answer. Use your laptop to look up solutions from past cohorts if you're stuck.
 - Don't spend too much time being stuck with a student - if you can't get them moving forward, ask another mentor or instructor.
-- Additionally, you can do code reviews. See [below](code-review.md) for instructions on how to do code reviews.
-- If you're getting a lot of the same questions, consider doing a breakout on a topic. Check to see if the students would like one, and consider checking in with the phase and/or cohort lead to see if there's any info from their lecture that they would like you to reinforce.
+- Additionally, you should do code reviews. See [how conduct code reviews](code-review.md) for instructions on how to do code reviews.
+- If you're getting a lot of the same questions, consider doing a breakout on a topic. Check to see if the students would like one, and consider checking in with the phase lead to see if there's any info from their lecture that they would like you to reinforce.
 
 #### After a Session:
 - Remove your name from the board.
