@@ -85,7 +85,7 @@ The core Mentor role is to provide direct floor support or workshops onsite. Men
 - Admissions
 - Whatever else
 
-We log these non-core activities separately because we are capped in how many hours we can book for core roles week to week. You will be shared on both calendars.
+We log these non-core activities separately because we are capped in how many hours we can book for core roles week to week. You will be shared on both calendars. **Important Note** regardless of where you books time these calendars, you are limited to 20 hours per week *total*.
 
 - SF Mentor Calendar - where you create slots for any on-site mentoring.
 - SF Mentor Activities - where you create slots for all other events.
