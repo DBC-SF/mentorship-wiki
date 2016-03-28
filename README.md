@@ -3,6 +3,7 @@
 ## Table of Contents:
   - [F.A.Q.](faq.md)
   - [Sessions](sessions.md)
+  - [Calendars](#calendars)
   - [Feedback](#giving-and-receiving-feedback)
   - [Submit Hours in Workday](#how-to-submit-your-hours-in-workday)
   - [Meetings](#meetings)
@@ -33,17 +34,19 @@ Mentor Coordinator: Hunter T. Chapman <hunter@devbootcamp.com>
 
 
 #### Scheduling Constraints:
-It is your responsibility to ensure your session does not exceed these limits. Any work outside these limits will not be deemed billable hours.
 
-Day side Mentors should schedule hours between 10:00 and 19:00.
+Mentors are broken down into two groups:
 
-Evening && Weekend Mentors should schedule hours between 18:00 - 22:00 during the week && 10:00 - 22:00 on the weekends.
+- Day side Mentors should schedule hours between 10:00 and 19:00.
+- Evening && Weekend Mentors should schedule hours between 18:00 - 22:00 during the week && 10:00 - 22:00 on the weekends.
 
+It is your responsibility to ensure your session does not exceed these constraints. Any work outside these limits will not be deemed billable hours.
+
+- **Maximum of 20 hours** per week per Mentor.
+- **Maximum of 120 hours** per week for **All Mentors**. Find current status @ [Mentor Calendar Hours](http://google-calendar-hours.com/).
 - **Maximum of 5 Mentors** can book non-core hours each day.
 - **Maximum of 6 hours** per day for day side Mentors.
 - **Maximum of 4 hours** per day for evening Mentors unless a specific waiver is granted by the Mentor Coordinator.
-- **Maximum of 20 hours** per week per Mentor.
-- **Maximum of 120 hours** per week for **All Mentors**. Find current status @ [Mentor Calendar Hours](http://google-calendar-hours.com/).
 - This cap is dynamic and will be adjusted to meet student needs by the Mentor Coordinator.
 - Additional Info in the [FAQ](faq.md).
 
@@ -69,6 +72,23 @@ Future Goal -- To accomplish this you have been added to the SF-Mentors team on 
 - Complete the [Weekly Mentor Survey](https://docs.google.com/a/devbootcamp.com/forms/d/1aYZX7t737QJcIxmb25DCwcYPzKsxzgmiz_COOHjxj0I/viewform) weekly to talk about your experiences.
 - Student feedback for Mentors will be collected during the weekly retro survey.
 - You are required to solicit some student feedback each phase you work. This feedback will be reviewed by the Mentor Coordinator. Use the give a [Mentor feedback form](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform). This link will also be in the students guide.
+
+#### Calendars
+
+The core Mentor role is to provide direct floor support or workshops onsite. Mentors are being pulled in many different directions outside this role. Such as:
+
+- Info Panels
+- Remote Mentoring for satellite locations
+- Hackathon Support
+- Community Outreach Events
+- Tours
+- Admissions
+- Whatever else
+
+We log these non-core activities separately because we are capped in how many hours we can book for core roles week to week. You will be shared on both calendars.
+
+- SF Mentor Calendar - where you create slots for any on-site mentoring.
+- SF Mentor Activities - where you create slots for all other events.
 
 #### Meetings:
 - 1st Monday of Phase @ 6:15 -- Optional powwow with Mentor Coordinator. Feel free to attend if you have questions or concerns.
