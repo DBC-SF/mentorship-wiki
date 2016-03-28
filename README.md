@@ -75,7 +75,9 @@ Future Goal -- To accomplish this you have been added to the SF-Mentors team on 
 
 #### Calendars
 
-The core Mentor role is to provide direct floor support or workshops onsite. Mentors are being pulled in many different directions outside this role. Such as:
+**Important Note:** Regardless of where you book time on these calendars, you are limited to 20 hours per week *total*. Please sign up for on-site hours as early as possible so we have a feel for what coverage to expect throughout the week.
+
+The core Mentor role is to provide direct floor support or workshops on-site. However, Mentors are being pulled in many different directions outside this role. Such as:
 
 - Info Panels
 - Remote Mentoring for satellite locations
@@ -85,10 +87,10 @@ The core Mentor role is to provide direct floor support or workshops onsite. Men
 - Admissions
 - Whatever else
 
-We log these non-core activities separately because we are capped in how many hours we can book for core roles week to week. You will be shared on both calendars. **Important Note:** Regardless of where you book time on these calendars, you are limited to 20 hours per week *total*. Please sign up for on-site hours as early as possible so we have a feel for what coverage to expect throughout the week.
+We log these non-core activities separately because we are capped in how many hours we can book for core roles week to week. You will be shared on both calendars.
 
-- SF Mentor Calendar - where you create slots for any on-site mentoring.
-- SF Mentor Activities - where you create slots for all other events.
+- SF Mentor Calendar - create slots for any on-site mentoring.
+- SF Mentor Activities - create slots for all other events.
 
 #### Meetings:
 - 1st Monday of Phase @ 6:15 -- Optional powwow with Mentor Coordinator. Feel free to attend if you have questions or concerns.
