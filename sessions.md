@@ -30,7 +30,7 @@ There are several fixed sessions available. If someone hasn't claimed a session 
   - White-boarding Wednesdays **John Akers**
   - Intro to Javascript Week 1 weekend **Stephanie Hutson**
   - Intro to Sinatra - Phase transition weekend **Jason Lo**
-  - Intro to Git Workflow - Week 2 Monday **OPEN**
+  - Intro to Git Workflow - Week 2 Monday **Hanah**
   - Advanced Git Workflow including rebase - **OPEN**
   - Intro to Rails - Phase transition weekend **OPEN**
   - Intro to JS Framework (your choice) - Week 2 weekend **OPEN**
