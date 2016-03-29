@@ -37,8 +37,8 @@ Mentor Coordinator: Hunter T. Chapman <hunter@devbootcamp.com>
 
 Mentors are broken down into two groups:
 
-- Day side Mentors should schedule hours between 10:00 and 19:00.
-- Evening && Weekend Mentors should schedule hours between 18:00 - 22:00 during the week && 10:00 - 22:00 on the weekends.
+- Core-Hour Mentors should schedule hours between **10:00 and 19:00**.
+- Non-Core-Hour (Evenings && Weekends) Mentors should schedule hours between **18:00 - 22:00** during the week && **10:00 - 22:00** on the weekends.
 
 It is your responsibility to ensure your session does not exceed these constraints. Any work outside these limits will not be deemed billable hours.
 
