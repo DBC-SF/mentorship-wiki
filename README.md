@@ -43,7 +43,7 @@ Mentors are broken down into two groups:
 It is your responsibility to ensure your session does not exceed these constraints. Any work outside these limits will not be deemed billable hours.
 
 - **Maximum of 20 hours** per week per Mentor.
-- **Maximum of 120 hours** per week for **All Mentors**. Find current status @ [Mentor Calendar Hours](http://google-calendar-hours.com/).
+- **Maximum of 120 hours** per week for **All Mentors**. Find current status @ [Mentor Calendar Hours](http://google-calendar-hours.com/) (week starts on Sunday).
 - **Maximum of 5 Mentors** can book non-core hours each day.
 - **Maximum of 6 hours** per day for day side Mentors.
 - **Maximum of 4 hours** per day for evening Mentors unless a specific waiver is granted by the Mentor Coordinator.
