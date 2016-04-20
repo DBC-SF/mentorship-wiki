@@ -4,6 +4,7 @@
 
 ## Table of Contents:
   - [F.A.Q.](faq.md)
+  - [Scheduling](#phasley-scheduling)
   - [Sessions](sessions.md)
   - [Calendars](#calendars)
   - [Feedback](#giving-and-receiving-feedback)
@@ -42,11 +43,11 @@ Mentor Coordinator: Hunter T. Chapman <hunter@devbootcamp.com>
 - This is a first iteration and as such the layout will change.
 
 - Selection Process:
-  - First round is limited to 4 hours per week for all Mentors excluding preassigned slots. Additional hours can be picked up in later rounds.
+  - Initial round is limited to 4 hours per week for all Mentors excluding preassigned slots. Additional hours can be picked up in later rounds.
     - 1st Round: __Mentors currently employed as Devs__
       - Open: Week 2 Friday @ 7:00 PM
       - Close: Sunday @ 7:00 PM.
-    - 2nd Round: __All other Mentors__
+    - 2nd Round: __Non-Employed Mentors__
       - Open: Sunday @ 7:00 PM Week 3
       - Close: Tuesday @ 7:00 PM Week 3.
     - 3rd Round: __All Mentors__
