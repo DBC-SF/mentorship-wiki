@@ -75,7 +75,7 @@ To see the current layout a little clearer here is a screen cap from the admin v
 
 ![Week2](schedules/Week-2.png)
 
-![Week3](schedules/week-3.png)
+![Week3](schedules/Week-3.png)
 
 These tables demonstrate the current weekly breakdown.
 
