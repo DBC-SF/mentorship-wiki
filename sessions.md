@@ -5,10 +5,10 @@ A session is time that you book to Mentor @ DBC. If you book a session you are e
 ### Booking:
 
 #### Signing Up For Sessions:
-Mentors are added to the Mentor Appointments Calendar after they are accepted to the program. If you cannot access this Google calendar, email the Mentor Coordinator for assistance.
+Mentors are added to the Mentor Calendar after they are accepted to the program. If you cannot access this Google calendar, email the Mentor Coordinator for assistance.
 
 - Mentor sessions can be created on the Mentor Appointments Calendar.
-- Some sessions are assigned by the Mentor Coordinator or Phase Lead either because they are phase specific sessions during core hours, or a particular mentor has requested to own that session (IE. white-boarding Wednesdays).
+- Some sessions are assigned by the Mentor Coordinator or Phase Lead either because they are phase specific sessions during core hours, or a particular mentor has requested to own that session (IE. Intro to JS Workshop).
 - It is useful if you book sessions a few days ahead of time so students and other Mentors know what support to expect, but they may be claimed as you walk in the door.
 
 - See the video below for a demo. **coming soon**
