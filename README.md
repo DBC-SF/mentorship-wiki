@@ -34,23 +34,73 @@ Mentor Coordinator: Hunter T. Chapman <hunter@devbootcamp.com>
 
 - [Student Facing Info](student-facing-mentors.md)
 
+#### Phasley Scheduling:
 
-#### Scheduling Constraints:
+- This approach utilizes appointment slots that only one Mentor can sign up for.
+- Week 3 of the prior phase, all Mentors will choose from preassigned slots for the upcoming phase.
+- Appointment slot times are a solid guideline but do not have to be adhered to exactly. You can +- an hour here and there so long as the total remains unchanged.
+- This is a first iteration and as such the layout will change.
 
-Mentors are broken down into two groups:
+- Selection Process:
+  - First round is limited to 4 hours per week for all Mentors excluding preassigned slots. Additional hours can be picked up in later rounds.
+    - 1st Round: __Mentors currently employed as Devs__
+      - Open: Week 2 Friday @ 7:00 PM
+      - Close: Sunday @ 7:00 PM.
+    - 2nd Round: __All other Mentors__
+      - Open: Sunday @ 7:00 PM Week 3
+      - Close: Tuesday @ 7:00 PM Week 3.
+    - 3rd Round: __All Mentors__
+      - Open: Wednesday @ 7:00 PM Week 3
+      - Close: Thursday @ 7:00 PM Week 3.
+    - Final Round: __All Mentors__
+      - Open: Thursday @ 7:00 PM of Week 3
+      - All remaining slots are 'up for grabs' to all Mentors, so long as it does not violate your 20 hour cap.
 
-- Core-Hour Mentors should schedule hours between **10:00 and 19:00**.
-- Non-Core-Hour (Evenings && Weekends) Mentors should schedule hours between **18:00 - 22:00** during the week && **10:00 - 22:00** on the weekends.
 
-It is your responsibility to ensure your session does not exceed these constraints. Any work outside these limits will not be deemed billable hours.
+  - Misc:
+    - If you sign up for hours before your appointed time or outside of the constrictions listed, your slots for the phase will be forfeit.
+    - Day side slots marked Ph-1/2/3 will be filled by the Mentor Coordinator in advance of the first round.
+    - Other day side slots marked Float are available for booking.
+    - Fixed Sessions (workshops) are on the calendar but require Mentor Coordinator approval.
 
-- **Maximum of 20 hours** per week per Mentor.
-- **Maximum of 120 hours** per week for **All Mentors**. Find current status @ [Mentor Calendar Hours](http://google-calendar-hours.com/) (week starts on Sunday).
-- **Maximum of 5 Mentors** can book non-core hours each day.
-- **Maximum of 6 hours** per day for day side Mentors.
-- **Maximum of 4 hours** per day for evening Mentors unless a specific waiver is granted by the Mentor Coordinator.
-- This cap is dynamic and will be adjusted to meet student needs by the Mentor Coordinator.
-- Additional Info in the [FAQ](faq.md).
+- NOTES: Grant access to Mentor tracking for Mentors to mark themselves as employed and where.
+- NOTES: Maybe first round includes mentors that standout in feedback..
+
+#### Schedule Overview:
+
+To see the current layout a little clearer here is a screen cap from the admin view:
+
+![Week1](schedules/Week-1.png)
+
+![Week2](schedules/Week-2.png)
+
+![Week3](schedules/week-3.png)
+
+These tables demonstrate the current weekly breakdown.
+
+| Week 1 | Hours |
+|------|---|
+| Core - AM  | 30 |
+| Core - PM  | 42 |
+| Meet the Mentors | 08 |
+| WorkShops  | 05 |
+| Floating  | 20 |
+| Weekend Floating  | 15 |
+
+| Week 2 | Hours |
+|------|---|
+| Core - AM  | 32.5 |
+| Core - PM  | 38.5 |
+| Floating | 29 |
+| Weekend Floating | 20|
+
+| Week 3 | Hours |
+|------|---|
+| Core - AM | 30 |
+| Core - PM | 37 |
+| WorkShops | 04 |
+| Floating | 29 |
+| Weekend Floating | 20 |
 
 
 #### Recurring Responsibilities:
