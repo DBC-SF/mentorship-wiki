@@ -13,11 +13,14 @@ Mentors are added to the Mentor Calendar after they are accepted to the program.
 
 - See the video below for a demo. **coming soon**
 
-#### Finding Coverage For Sessions:
+#### Canceling Sessions:
+
 If you book a session on the calendar but are unable to make it:
 
-  1. Go to your Google calendar page and make sure that the DBC::SF Mentor Calendar is the only one selected. If you have your personal calendar displayed as well, you may inadvertently delete the session from your personal calendar instead of the DBC calendar. This means your old session WILL STILL BE VISIBLE on the DBC calendar, even though it is gone from your own calendar. You need to be sure to delete directly from the DBC calendar.
-  2. Click on the session you need to delete and then click the "Delete" link.
+Go to your Google calendar.
+Click on the session you need to delete and then click the "Cancel Appointment" link.
+Next click 'Delete and Update Guests'.
+Shoot me an email and let me know about the cancellation. I will email out to find a replacement.
 
 #### Fixed Sessions:
 Fixed sessions are workshops conducted by a Mentor. They can occur anytime after 6 on weekdays, or anytime over the weekend.
