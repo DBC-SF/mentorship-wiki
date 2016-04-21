@@ -52,7 +52,7 @@ There are several fixed sessions available. If someone hasn't claimed a session 
 - Take walks up and down the aisles every so often - some students don't ask questions unless you pass by.
 - Nudge them in the right direction but don't give them the answer. Use your laptop to look up solutions from past cohorts if you're stuck.
 - Don't spend too much time being stuck with a student - if you can't get them moving forward, ask another mentor or instructor.
-- Additionally, you should do code reviews. See [how conduct code reviews](code-review.md) for instructions on how to do code reviews.
+- Additionally, you should do code reviews. See [how to conduct code reviews](code-review.md) for instructions on how to do code reviews.
 - If you're getting a lot of the same questions, consider doing a breakout on a topic. Check to see if the students would like one, and consider checking in with the phase lead to see if there's any info from their lecture that they would like you to reinforce.
 
 #### After a Session:
