@@ -4,7 +4,7 @@
 
 ## Table of Contents:
   - [F.A.Q.](faq.md)
-  - [Scheduling](#phasley-scheduling)
+  - [Scheduling](#phasely-scheduling)
   - [Sessions](sessions.md)
   - [Calendars](#calendars)
   - [Feedback](#giving-and-receiving-feedback)
@@ -35,7 +35,7 @@ Mentor Coordinator: Hunter T. Chapman <hunter@devbootcamp.com>
 
 - [Student Facing Info](student-facing-mentors.md)
 
-#### Phasley Scheduling:
+#### Phasely Scheduling:
 
 - This approach utilizes appointment slots that only one Mentor can sign up for.
 - Week 3 of the prior phase, all Mentors will choose from preassigned slots for the upcoming phase.
