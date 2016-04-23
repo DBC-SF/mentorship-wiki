@@ -1,12 +1,10 @@
 # Mentors Wiki
 
-#### [Current Mentor Calendar Hours](http://google-calendar-hours.com/)
-
 ## Table of Contents:
   - [F.A.Q.](faq.md)
-  - [Scheduling](#phasely-scheduling)
+  - [Scheduling](sessions.md#phasely-scheduling)
   - [Sessions](sessions.md)
-  - [Calendars](#calendars)
+  - [Student Notes](#student-notes)
   - [Feedback](#giving-and-receiving-feedback)
   - [Submit Hours in Workday](#how-to-submit-your-hours-in-workday)
   - [Meetings](#meetings)
@@ -25,89 +23,20 @@ Mentor Coordinator: Hunter T. Chapman <hunter@devbootcamp.com>
 
 #### Quick Links:
 
+- [Appointment Booking Page](https://calendar.google.com/calendar/selfsched?sstoken=UUQ0LUNTY0xtTnpufGRlZmF1bHR8MDJjOGU2M2IxOTMwMDg0OWNmN2M1N2I5YTI3NTJiYmM)
+
+- [Mentor Status Sheet](https://docs.google.com/spreadsheets/d/1RgO926LYjNb4OuYwPOBIEkX3hjQNLmT-P99IEIxpmP0/edit?usp=sharing)
+
+- [Student Notes](https://mentor.devbootcamp.com/)
+
 - [On boarding Guide](onboarding.md)
 
 - [End of Session Form](https://docs.google.com/a/devbootcamp.com/forms/d/1bNIBtgy2ephY5117eHa31iFVgVRxPJAA0zzyeEqvTlA/viewform)
-
-- [Weekly Survey Form](https://docs.google.com/a/devbootcamp.com/forms/d/1aYZX7t737QJcIxmb25DCwcYPzKsxzgmiz_COOHjxj0I/viewform)
 
 - [Give a Mentor Feedback](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform)
 
 - [Student Facing Info](student-facing-mentors.md)
 
-#### Phasely Scheduling:
-
-
-- Appointment Selection Process:
-  - Week 3 of the prior phase, all Mentors will choose from preassigned slots for the upcoming phase.
-  - Selection of avalaiable slots is conducted over 3 rounds.
-  - The first two rounds selections are limited to __5 hours per week per Mentor__ excluding preassigned slots. Additional hours can be picked up in the final round.
-    - __Mentors currently employed as Devs__
-      - Open: Week 2 Friday @ 7:00 PM
-      - Close: Sunday @ 7:00 PM.
-    - __Non-Employed Mentors__
-      - Open: Sunday @ 7:00 PM Week 3
-      - Close: Wednesday @ 7:00 PM Week 3.
-    - Unrestricted Selection open to: __All Mentors__
-      - Open: Wednesday @ 7:00 PM of Week 3
-      - All remaining slots (excluding those marked Ph-1/2/3 or workshops) are 'Up for grabs' to all Mentors, so long as it does not violate your 20 hour cap.
-
-  - Misc Details:
-    - Current SF Mentor Calendar is void as of next phase. (5/2/2016)
-    - This approach utilizes appointment slots that only one Mentor can sign up for.
-    - Day side slots marked Ph-1/2/3 will be filled by the Mentor Coordinator in advance of the first round.
-    - Day side slots marked Float are available for booking from all Mentors, this will allow some of you 'non-core' folks to get some day side exposure.
-    - Fixed Sessions (workshops) are on the calendar but should only be booked by Mentors approved by the Mentor Coordinator.
-    - Eligibility for the first round is determined by ```Column F``` in the [Mentor Status Sheet](https://docs.google.com/spreadsheets/d/1RgO926LYjNb4OuYwPOBIEkX3hjQNLmT-P99IEIxpmP0/edit?usp=sharing). All Mentors are encouraged to update this with current employment information.
-    - [Canceling appointments](sessions.md#canceling_sessions)
-    - Allows for the Mentor hours to be consumed across a phase where we see them having the greatest impact.
-    - Appointment slot times are a solid guideline but do not have to be adhered to exactly. You can +- an hour here and there so long as your total hours for the day remain unchanged.
-    - This is a first iteration and as such the layout will change.
-    - This entire 'scheduling appointments' thing strictly relates to your primary role in floor support @ DBC. Miscellaneous Mentor usage elsewhere in our company will be logged on the Mentor Activities calendar. Detailed documentation forthcoming.... (Due 4/29/2016)
-
-  - Scheduling Penalties:
-    - If you sign up for hours before your appointed time or outside of the constrictions listed, your slots for the phase will be forfeit.
-    - If you miss an appointment without [canceling](sessions.md#canceling_sessions) it and informing the Mentor Calendar your slots for the rest of the phase will be forfeit.
-
-- _NOTES: Maybe first round includes mentors that standout in feedback.._
-
-
-
-#### Schedule Overview:
-
-To see the current layout a little clearer here is a screen cap from the Admin view:
-
-![Week1](schedules/Week-1.png)
-
-![Week2](schedules/Week-2.png)
-
-![Week3](schedules/Week-3.png)
-
-These tables demonstrate the current weekly breakdown.
-
-| Week 1 | Hours |
-|------|---|
-| Core - AM  | 30 |
-| Core - PM  | 42 |
-| Meet the Mentors | 08 |
-| WorkShops  | 05 |
-| Floating  | 20 |
-| Weekend Floating  | 15 |
-
-| Week 2 | Hours |
-|------|---|
-| Core - AM  | 32.5 |
-| Core - PM  | 38.5 |
-| Floating | 29 |
-| Weekend Floating | 20|
-
-| Week 3 | Hours |
-|------|---|
-| Core - AM | 30 |
-| Core - PM | 37 |
-| WorkShops | 04 |
-| Floating | 29 |
-| Weekend Floating | 20 |
 
 ----
 
@@ -118,7 +47,6 @@ These tables demonstrate the current weekly breakdown.
 - Complete a minimum 5 code reviews
 
 **Weekly**
-- Complete the [Mentor Survey](https://docs.google.com/a/devbootcamp.com/forms/d/1aYZX7t737QJcIxmb25DCwcYPzKsxzgmiz_COOHjxj0I/viewform)
 - [Submit Hours in Workday](#how-to-submit-your-hours-in-workday)
 
 #### Access to Cohort Orgs:
@@ -129,13 +57,22 @@ Currently - If you are working a phase and require access to the org email the M
 Future Goal -- To accomplish this you have been added to the SF-Mentors team on GitHub. This team will be invited to each incoming Cohort Org, granting you full access to all material therein. Access Issues: Ensure that you have accepted the invitation from Github for each active Cohort, else contact Mentor Coordinator.
 
 #### Giving and Receiving Feedback:
-- Complete the [Weekly Mentor Survey](https://docs.google.com/a/devbootcamp.com/forms/d/1aYZX7t737QJcIxmb25DCwcYPzKsxzgmiz_COOHjxj0I/viewform) weekly to talk about your experiences.
 - Student feedback for Mentors will be collected during the weekly retro survey.
-- You are required to solicit some student feedback each phase you work. This feedback will be reviewed by the Mentor Coordinator. Use the give a [Mentor feedback form](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform). This link will also be in the students guide.
+- You are encouraged to solicit student feedback after sessions. This feedback will be reviewed by the Mentor Coordinator and distributed to the Mentor team weekly. Use the give a [Mentor feedback form](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform). This link will also be in the students guide.
 
-#### Calendars
+#### Student Notes:
 
-**Important Note:** Regardless of where you book time on these calendars, you are limited to 20 hours per week *total*. Please sign up for on-site hours as early as possible so we have a feel for what coverage to expect throughout the week.
+DBC has an application [mentor.devbootcamp.com](https://mentor.devbootcamp.com/) which allows for Mentors to provide notes on student progress to DBC staff directly.
+
+  - Notes will be displayed in DBC's main student tracking application.
+  - Enter a note whenever you have a +/- student interaction that you feel is noteworthy.
+  - Cultural as well as technical notes are encouraged.
+  - Notes are permanent.
+  - Visible to Global DBC staff.
+
+#### Non-Core Mentor Usage:
+
+**Important Note:** Regardless of what you are working on over the week, you are limited to 20 hours per week *total*.
 
 The core Mentor role is to provide direct floor support or workshops on-site. However, Mentors are being pulled in many different directions outside this role. Such as:
 
@@ -147,14 +84,13 @@ The core Mentor role is to provide direct floor support or workshops on-site. Ho
 - Admissions
 - Whatever else
 
-We log these non-core activities separately because we are capped in how many hours we can book for core roles week to week. You will be shared on both calendars.
+__Additional updates on this process are coming very soon.__
 
-- SF Mentor Calendar - create slots for any on-site mentoring.
-- SF Mentor Activities - create slots for all other events.
+For now simply track Non-Core Mentor Activities in the __SF Mentor Activities calendar__. Create an event on this calendar that reflects the hours worked. Name the event for whatever you were doing.
 
 #### Meetings:
-- 1st Monday of Phase @ 6:15 -- Optional powwow with Mentor Coordinator. Feel free to attend if you have questions or concerns.
-- 1st Monday of Phase @ 7:00 -- Meet the Mentors for incoming Cohort. Need 4-8 Mentors to attend each phase.
+- 1st Monday of Phase @ 6:00 -- Optional powwow with Mentor Coordinator. Feel free to attend if you have questions or concerns.
+- 1st Monday of Phase @ 6:30 -- Meet the Mentors for incoming Cohort. Need 4 Mentors to attend each phase. This is mostly an introductory session for the new cohort. It's an excellent time for Mentors to establish culture and strategies for success @ DBC. Establish an informal conversational flow while briefing them on how best to interact with Mentors.
 
 #### How To Submit Your Hours in Workday:
 [Video Demo](https://drive.google.com/file/d/0B7uFhzfRtRRGSWlaWk1MS0ttb3gzaWJYenp3dlhPYl9nM253/view?usp=sharing)
@@ -167,8 +103,6 @@ We log these non-core activities separately because we are capped in how many ho
 Mentors are expected to uphold the three agreements and location specific rules at all times. Failure to do so will result in removal from the program.
 
 Mentors are expected to work at least 5 hours a month to remain active in the program. Mentors working less than this will be contacted and asked to increase their hours or to retire from the program if they do not wish to work the minimum. Retired mentors can re-apply to the program at a later time. If you require a short term waiver (vacation, travel, etc) contact the Mentor Coordinator.
-
-
 
 ## Anything Else...
 If there is something that should be covered here please email the Mentor Coordinator or open a PR.
