@@ -6,13 +6,11 @@ This is per month.  Since mentors are now part time employees, there is a limit 
 
 ---
 
-_What is the maximum number of mentor hours that can be worked in a week?_
+_What is the maximum number of total mentor hours that can be worked in a week?_
 
-This is based on the number of students on-site. It is currently 100 hours, with 60 hours being reserved for phase leads to schedule during day hours and 40 available for nights and weekends. At a max it will be 166 hours with 100 reserved for day hours and 66 available for nights and weekends.
+This is based on the number of students on-site. It is currently 120 hours, with roughly 60 hours being reserved for day hours and roughly 60 available for nights and weekends. At a max it will be 166 hours with 100 reserved for day hours and 66 available for nights and weekends.
 
 This number may change based on student demand and mentor availability.
-
-You can check the total hours booked via [Google Calendar Hours](http://google-calendar-hours.com/). Mentors will be notified if the program is approaching this limit by the Mentor Coordinator.
 
 ---
 

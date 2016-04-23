@@ -97,7 +97,7 @@ For now simply track Non-Core Mentor Activities in the __SF Mentor Activities ca
 
 1. Login
 2. Go to the Time page
-3. Submit daily session totals which reflect hours worked and correspond with the SF Mentor Calendar
+3. Submit daily session totals which reflect hours worked and corresponds with the SF Mentor Calendar
 
 #### Removal from the program:
 Mentors are expected to uphold the three agreements and location specific rules at all times. Failure to do so will result in removal from the program.
