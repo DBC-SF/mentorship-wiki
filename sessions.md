@@ -2,8 +2,6 @@
 
 A session is time that you book to Mentor @ DBC. If you book a session you are expected to show up for that time slot. Session bookings will be cross-referenced to your Workday submissions.
 
-### Booking:
-
 #### Phasely Scheduling:
 
 - Week 3 of the prior phase, all Mentors will choose from premade appointment slots for the upcoming phase.
@@ -16,9 +14,9 @@ A session is time that you book to Mentor @ DBC. If you book a session you are e
   - __Non-Employed Mentors__
     - Open: Sunday @ 7:00 PM Week 3
     - Close: Wednesday @ 7:00 PM Week 3.
-  - Open Final Round: __All Mentors__
+  - __All Mentors__ Open Final Round:
     - Open: Wednesday @ 7:00 PM of Week 3
-    - All remaining slots (excluding those marked Ph-1/2/3 or workshops) are 'Up for grabs' to all Mentors, so long as it does not violate your 20 hour cap.
+    - All remaining slots (excluding those marked Ph-1/2/3 or workshops) are __Up for grabs to all Mentors__, so long as it does not violate your 20 hour cap.
 
 - Misc Details:
   - Current SF Mentor Calendar is void as of next phase and will be removed. (5/2/2016)
@@ -110,7 +108,7 @@ There are several fixed sessions available. If someone hasn't claimed a session 
 ### Session Cadence:
 
 #### Before a Session:
-- Review the challenges the students will be working by checking each of their phase guides in the respective cohort organizations. You can access these through your GitHub account. If you do not have access email the Mentor Coordinator.
+- Review the challenges the students will be working on by checking each of their phase guides in the respective cohort organizations. You can access these through your GitHub account. If you do not have access email the Mentor Coordinator.
 
 #### During a Session:
 - Write your name and session time on the board.
@@ -120,7 +118,9 @@ There are several fixed sessions available. If someone hasn't claimed a session 
 - Take walks up and down the aisles every so often - some students don't ask questions unless you pass by.
 - No questions from students... Break the ice with some general conversation angeling towards setting DBC culture.
 - Nudge them in the right direction but don't always give them the answer straight up.
+- Conduct quick 20-30 minute breakouts whenever you notice a group of students struggling around the same topic.
 - If you notice bad habits starting to form, shut them down.
+- Encourage clean code and 'best practices'.
 - Use your laptop to look up solutions from past cohort orgs if you're stuck.
 - Don't spend too much time being stuck with a student - if you can't get them moving forward, ask another Mentor or Instructor.
 - Remember, being a Mentor isn't all technical. Try to set a culture of hard work, kindness, determination, self empowerment and all around joyful interactions amongst humans and code the code they play with.
