@@ -5,6 +5,7 @@
   - [Sessions](sessions.md)
   - [What to do?](sessions.md#session-cadence)
   - [Student Notes](#student-notes)
+  - [Daytime Mentor Slots](#daytime-mentor-slots)
   - [Feedback](#giving-and-receiving-feedback)
   - [Submit Hours in Workday](#how-to-submit-your-hours-in-workday)
   - [Meetings](#meetings)
@@ -69,6 +70,12 @@ DBC has an application [mentor.devbootcamp.com](https://mentor.devbootcamp.com/)
   - Cultural as well as technical notes are encouraged.
   - Notes are permanent.
   - Visible to Global DBC staff.
+
+#### Daytime Mentor Slots:
+
+  - Slots marked PH/1/2/3 are filled by the Mentor Coordinator.
+  - Slots marked *HR Float are bookable by all Mentors.
+  - Some phases may have different AM/PM Mentors.
 
 #### Mentor Usage in Other Roles:
 
