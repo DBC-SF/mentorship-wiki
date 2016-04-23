@@ -6,38 +6,37 @@ A session is time that you book to Mentor @ DBC. If you book a session you are e
 
 #### Phasely Scheduling:
 
-- Appointment Selection Process:
-  - Week 3 of the prior phase, all Mentors will choose from premade appointment slots for the upcoming phase.
-  - Selection of available slots is conducted over 3 rounds at times listed below.
-  - The first two rounds selections are limited to __5 hours per Mentor per week__ excluding preassigned slots. Additional hours can be picked up in the final round.
-  - Selection Rounds:
-    - __Mentors currently employed as Devs__
-      - Open: Week 2 Friday @ 7:00 PM
-      - Close: Sunday @ 7:00 PM.
-    - __Non-Employed Mentors__
-      - Open: Sunday @ 7:00 PM Week 3
-      - Close: Wednesday @ 7:00 PM Week 3.
-    - Open Final Round: __All Mentors__
-      - Open: Wednesday @ 7:00 PM of Week 3
-      - All remaining slots (excluding those marked Ph-1/2/3 or workshops) are 'Up for grabs' to all Mentors, so long as it does not violate your 20 hour cap.
+- Week 3 of the prior phase, all Mentors will choose from premade appointment slots for the upcoming phase.
+- Selection of available slots is conducted over 3 rounds at times listed below.
+- The first two rounds selections are limited to __5 hours per Mentor per week__ excluding preassigned slots. Additional hours can be picked up in the final round.
+- Selection Rounds:
+  - __Mentors currently employed as Devs__
+    - Open: Week 2 Friday @ 7:00 PM
+    - Close: Sunday @ 7:00 PM.
+  - __Non-Employed Mentors__
+    - Open: Sunday @ 7:00 PM Week 3
+    - Close: Wednesday @ 7:00 PM Week 3.
+  - Open Final Round: __All Mentors__
+    - Open: Wednesday @ 7:00 PM of Week 3
+    - All remaining slots (excluding those marked Ph-1/2/3 or workshops) are 'Up for grabs' to all Mentors, so long as it does not violate your 20 hour cap.
 
-  - Misc Details:
-    - Current SF Mentor Calendar is void as of next phase and will be removed. (5/2/2016)
-    - This approach utilizes appointment slots that only one Mentor can sign up for.
-    - Day side slots marked Ph-1/2/3 will be filled by the Mentor Coordinator in advance of the first round.
-    - Day side slots marked Float are available for booking from all Mentors, this will allow some 'non-core' mentors to get some day side exposure.
-    - Fixed Sessions (workshops) are on the calendar but should only be booked by Mentors approved by the Mentor Coordinator.
-    - Eligibility for the first round is determined by ```Column F``` in the [Mentor Status Sheet](https://docs.google.com/spreadsheets/d/1RgO926LYjNb4OuYwPOBIEkX3hjQNLmT-P99IEIxpmP0/edit?usp=sharing). All Mentors are encouraged to update this with current employment information.
-    - [Canceling appointments](sessions.md#canceling_sessions)
-    - Allows for the Mentor hours to be consumed across a phase where we see them having the greatest impact.
-    - Appointment slot times are a solid guideline but do not have to be adhered to exactly. You can +- an hour here and there so long as your total hours for the day remain unchanged.
-    - This is a first iteration and as such the layout will change.
-    - Sure you have the ability to book appointments more than one phase in advance. Don't do it. I will delete any appointments not preassigned for the upcoming phase prior to selection rounds commencing.
-    - This entire 'scheduling appointments' thing strictly relates to your primary role in floor support @ DBC. Miscellaneous Mentor usage elsewhere in our company will be logged on the Mentor Activities calendar. Detailed documentation forthcoming.... (Due 4/29/2016)
+- Misc Details:
+  - Current SF Mentor Calendar is void as of next phase and will be removed. (5/2/2016)
+  - This approach utilizes appointment slots that only one Mentor can sign up for.
+  - Day side slots marked Ph-1/2/3 will be filled by the Mentor Coordinator in advance of the first round.
+  - Day side slots marked Float are available for booking from all Mentors, this will allow some 'non-core' mentors to get some day side exposure.
+  - Fixed Sessions (workshops) are on the calendar but should only be booked by Mentors approved by the Mentor Coordinator.
+  - Eligibility for the first round is determined by ```Column F``` in the [Mentor Status Sheet](https://docs.google.com/spreadsheets/d/1RgO926LYjNb4OuYwPOBIEkX3hjQNLmT-P99IEIxpmP0/edit?usp=sharing). All Mentors are encouraged to update this with current employment information.
+  - [Canceling appointments](sessions.md#canceling_sessions)
+  - Allows for the Mentor hours to be consumed across a phase where we see them having the greatest impact.
+  - Appointment slot times are a solid guideline but do not have to be adhered to exactly. You can +- an hour here and there so long as your total hours for the day remain unchanged.
+  - This is a first iteration and as such the layout will change.
+  - Sure you have the ability to book appointments more than one phase in advance. Don't do it. I will delete any appointments not preassigned for the upcoming phase prior to selection rounds commencing.
+  - This entire 'scheduling appointments' thing strictly relates to your primary role in floor support @ DBC. Miscellaneous Mentor usage elsewhere in our company will be logged on the Mentor Activities calendar. Detailed documentation forthcoming.... (Due 4/29/2016)
 
-  - Scheduling Penalties:
-    - If you sign up for hours before your appointed time or outside of the constrictions listed, your slots for the phase will be forfeit.
-    - If you miss an appointment without [canceling](sessions.md#canceling_sessions) it and finding a replacement / informing the Mentor Coordinator in advance, your slots for the rest of the phase will be forfeit.
+- Scheduling Penalties:
+  - If you sign up for hours before your appointed time or outside of the constrictions listed, your slots for the phase will be forfeit.
+  - If you miss an appointment without [canceling](sessions.md#canceling_sessions) it and finding a replacement / informing the Mentor Coordinator in advance, your slots for the rest of the phase will be forfeit.
 
 #### Schedule Overview:
 
