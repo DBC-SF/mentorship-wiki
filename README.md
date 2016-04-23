@@ -1,15 +1,15 @@
 # Mentors Wiki
 
 ## Table of Contents:
-  - [F.A.Q.](faq.md)
   - [Scheduling](sessions.md#phasely-scheduling)
   - [Sessions](sessions.md)
+  - [What to do?](sessions.md#session-cadence)
   - [Student Notes](#student-notes)
   - [Feedback](#giving-and-receiving-feedback)
   - [Submit Hours in Workday](#how-to-submit-your-hours-in-workday)
   - [Meetings](#meetings)
   - [Code Review](code-review.md)
-  - [What to do?](sessions.md#session-cadence)
+  - [F.A.Q.](faq.md)
 
 *****
 
@@ -97,7 +97,7 @@ For now simply track Non-Core Mentor Activities in the __SF Mentor Activities ca
 
 1. Login
 2. Go to the Time page
-3. Submit daily session totals from the SF Mentor Calendar
+3. Submit daily session totals which reflect hours worked and correspond with the SF Mentor Calendar
 
 #### Removal from the program:
 Mentors are expected to uphold the three agreements and location specific rules at all times. Failure to do so will result in removal from the program.
