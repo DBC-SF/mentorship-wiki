@@ -4,6 +4,8 @@ A session is time that you book to Mentor @ DBC. If you book a session you are e
 
 #### Phasely Scheduling:
 
+### Current SF Mentor Calendar is void and will be removed as of 5/1/2016.
+
 - Week 3 of the prior phase, all Mentors will choose from premade appointment slots for the upcoming phase.
 - Selection of available slots is conducted over 3 rounds at times listed below.
 - The first two rounds selections are limited to __5 hours per Mentor per week__ excluding preassigned slots. Additional hours can be picked up in the final round.
@@ -19,7 +21,6 @@ A session is time that you book to Mentor @ DBC. If you book a session you are e
     - All remaining slots (excluding those marked Ph-1/2/3 or workshops) are __Up for grabs to all Mentors__, so long as it does not violate your 20 hour cap.
 
 - Misc Details:
-  - Current SF Mentor Calendar is void as of next phase and will be removed. (5/2/2016)
   - This approach utilizes appointment slots that only one Mentor can sign up for.
   - Day side slots marked Ph-1/2/3 will be filled by the Mentor Coordinator in advance of the first round.
   - Day side slots marked Float are available for booking from all Mentors, this will allow some 'non-core' mentors to get some day side exposure.
