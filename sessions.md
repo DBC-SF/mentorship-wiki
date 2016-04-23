@@ -2,13 +2,15 @@
 
 A session is time that you book to Mentor @ DBC. If you book a session you are expected to show up for that time slot. Session bookings will be cross-referenced to your Workday submissions.
 
-#### Phasely Scheduling:
+### Phasely Scheduling:
 
 ### Current SF Mentor Calendar is void and will be removed as of 5/1/2016.
 
-- Week 3 of the prior phase, all Mentors will choose from premade appointment slots for the upcoming phase.
+#### Week 3 of the prior phase:
+
+- All Mentors book sessions from premade 'appointment' slots for the upcoming phase.
 - Selection of available slots is conducted over 3 rounds at times listed below.
-- The first two rounds selections are limited to __5 hours per Mentor per week__ excluding preassigned slots. Additional hours can be picked up in the final round.
+- The first two rounds selections are limited to __5 hours per Mentor per week__ excluding preassigned slots. Additional hours can be picked up in the open final round.
 - Selection Rounds:
   - __Mentors currently employed as Devs__
     - Open: Week 2 Friday @ 7:00 PM
@@ -25,9 +27,10 @@ A session is time that you book to Mentor @ DBC. If you book a session you are e
   - Day side slots marked Ph-1/2/3 will be filled by the Mentor Coordinator in advance of the first round.
   - Day side slots marked Float are available for booking from all Mentors, this will allow some 'non-core' mentors to get some day side exposure.
   - Fixed Sessions (workshops) are on the calendar but should only be booked by Mentors approved by the Mentor Coordinator.
-  - Eligibility for the first round is determined by ```Column F``` in the [Mentor Status Sheet](https://docs.google.com/spreadsheets/d/1RgO926LYjNb4OuYwPOBIEkX3hjQNLmT-P99IEIxpmP0/edit?usp=sharing). All Mentors are encouraged to update this with current employment information.
+  - Eligibility for the first round is determined by ```Column F``` in the [Mentor Status Sheet](https://docs.google.com/spreadsheets/d/1RgO926LYjNb4OuYwPOBIEkX3hjQNLmT-P99IEIxpmP0/edit?usp=sharing). All Mentors are encouraged to update this with current employment information as it changes.
   - [Canceling appointments](sessions.md#canceling_sessions)
   - Allows for the Mentor hours to be consumed across a phase where we see them having the greatest impact.
+  - If you do not work the entirety of your scheduled session, please be honest when reporting the hours in Workday.
   - Appointment slot times are a solid guideline but do not have to be adhered to exactly. You can +- an hour here and there so long as your total hours for the day remain unchanged.
   - This is a first iteration and as such the layout will change.
   - Sure you have the ability to book appointments more than one phase in advance. Don't do it. I will delete any appointments not preassigned for the upcoming phase prior to selection rounds commencing.
@@ -93,7 +96,7 @@ Fixed sessions are workshops conducted by a Mentor. They can occur anytime after
 
 Taking on a Fixed session means taking on additional responsibilities. Mentors working on a fixed session may bill a limited number of 'prep hours' in addition to the actual time of the session. (Determined by the Mentor Coordinator)
 
-Once scheduled, a fixed session should occur roughly at the same time and interval. Changes or substitutions need to be discussed with the Mentor Coordinator in advance. You may consider pairing with another Mentor for these, thus allowing some degree of flexibility while maintaining consistent deliver to students.
+Once scheduled, a fixed session should occur roughly at the same time and interval. Changes or substitutions need to be discussed with the Mentor Coordinator in advance. You may consider pairing with another Mentor for these, thus allowing some degree of flexibility while maintaining consistent delivery to students.
 
 There are several fixed sessions available. If someone hasn't claimed a session you are interested in email the Mentor Coordinator to discuss picking it up.
   - White-boarding Wednesdays **John Akers**
@@ -101,7 +104,7 @@ There are several fixed sessions available. If someone hasn't claimed a session 
   - Intro to Sinatra - Phase transition weekend **Jason Lo**
   - Intro to Git Workflow - Week 2 Monday **Hanah**
   - Intro to ReactJS - Week 1 Weekend **OPEN**
-  - Advanced Git Workflow including rebase - **OPEN**
+  - Advanced Git Workflow w/ ReBase - **OPEN**
   - Intro to Rails - Phase transition weekend **OPEN**
   - Intro to JS Framework (your choice) - Week 2 weekend **OPEN**
   - ... (Suggestions Welcome)
@@ -129,5 +132,5 @@ There are several fixed sessions available. If someone hasn't claimed a session 
 
 #### After a Session:
 - Remove your name from the board.
-- Ensure any impactful interactions logged to [students notes](https://mentor.devbootcamp.com/)
+- Log any impactful interactions in [students notes](https://mentor.devbootcamp.com/)
 - Complete the [End of Session](https://docs.google.com/a/devbootcamp.com/forms/d/1bNIBtgy2ephY5117eHa31iFVgVRxPJAA0zzyeEqvTlA/viewform) form.

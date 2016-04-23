@@ -70,9 +70,9 @@ DBC has an application [mentor.devbootcamp.com](https://mentor.devbootcamp.com/)
   - Notes are permanent.
   - Visible to Global DBC staff.
 
-#### Non-Core Mentor Usage:
+#### Mentor Usage in Other Roles:
 
-**Important Note:** Regardless of what you are working on over the week, you are limited to 20 hours per week *total*.
+**Important Note:** Regardless of what you are working on over the week, you are limited to 20 hours per week *total* without specific approval of the Mentor Coordinator.
 
 The core Mentor role is to provide direct floor support or workshops on-site. However, Mentors are being pulled in many different directions outside this role. Such as:
 
