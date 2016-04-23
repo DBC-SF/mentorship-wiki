@@ -124,7 +124,7 @@ There are several fixed sessions available. If someone hasn't claimed a session 
 - Encourage clean code and 'best practices'.
 - Use your laptop to look up solutions from past cohort orgs if you're stuck.
 - Don't spend too much time being stuck with a student - if you can't get them moving forward, ask another Mentor or Instructor.
-- Remember, being a Mentor isn't all technical. Try to set a culture of hard work, kindness, determination, self empowerment and all around joyful interactions amongst humans and code the code they play with.
+- Remember, being a Mentor isn't all technical. Try to set a culture of hard work, kindness, determination, self empowerment and all around joyful interactions amongst humans and the code they play with.
 - Additionally, you can do code reviews. See [how to conduct code reviews](code-review.md) for instructions on how to do code reviews.
 - If you're getting a lot of the same questions, consider doing a breakout on a topic. Check to see if the students would like one, and consider checking in with the phase lead to see if there's any info from their lecture that they would like you to reinforce.
 
