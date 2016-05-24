@@ -26,17 +26,17 @@ Mentor Coordinator: Hunter T. Chapman <hunter@devbootcamp.com>
 
 #### Quick Links:
 
+- [End of Session Form](https://docs.google.com/a/devbootcamp.com/forms/d/1bNIBtgy2ephY5117eHa31iFVgVRxPJAA0zzyeEqvTlA/viewform)
+
 - [Appointment Booking Page](https://calendar.google.com/calendar/selfsched?sstoken=UUQ0LUNTY0xtTnpufGRlZmF1bHR8MDJjOGU2M2IxOTMwMDg0OWNmN2M1N2I5YTI3NTJiYmM)
 
-- [Mentor Status Sheet](https://docs.google.com/spreadsheets/d/1RgO926LYjNb4OuYwPOBIEkX3hjQNLmT-P99IEIxpmP0/edit?usp=sharing)
+- [Give a Mentor Feedback (Give to students)](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform)
 
 - [Student Notes](https://mentor.devbootcamp.com/)
 
 - [On boarding Guide](onboarding.md)
 
-- [End of Session Form](https://docs.google.com/a/devbootcamp.com/forms/d/1bNIBtgy2ephY5117eHa31iFVgVRxPJAA0zzyeEqvTlA/viewform)
-
-- [Give a Mentor Feedback](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform)
+- [Mentor Status Sheet](https://docs.google.com/spreadsheets/d/1RgO926LYjNb4OuYwPOBIEkX3hjQNLmT-P99IEIxpmP0/edit?usp=sharing)
 
 - [Student Facing Info](student-facing-mentors.md)
 
@@ -51,6 +51,10 @@ Mentor Coordinator: Hunter T. Chapman <hunter@devbootcamp.com>
 
 **Weekly**
 - [Submit Hours in Workday](#how-to-submit-your-hours-in-workday)
+
+**Per Session**
+- [End of Session Report](https://docs.google.com/a/devbootcamp.com/forms/d/1bNIBtgy2ephY5117eHa31iFVgVRxPJAA0zzyeEqvTlA/viewform)
+- [Log notes in Mentor.devbootcamp.com](https://mentor.devbootcamp.com/)
 
 #### Access to Cohort Orgs:
 You need access to Cohort Orgs to perform code reviews and gain general insight of material on a phase.
