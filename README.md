@@ -54,7 +54,7 @@ Mentor Coordinator: Hunter T. Chapman <hunter@devbootcamp.com>
 
 **Per Session**
 - [End of Session Report](https://docs.google.com/a/devbootcamp.com/forms/d/1bNIBtgy2ephY5117eHa31iFVgVRxPJAA0zzyeEqvTlA/viewform)
-- [Log notes in Mentor.devbootcamp.com](https://mentor.devbootcamp.com/)
+- Log notes in [Mentor.devbootcamp.com](https://mentor.devbootcamp.com/)
 
 #### Access to Cohort Orgs:
 You need access to Cohort Orgs to perform code reviews and gain general insight of material on a phase.
