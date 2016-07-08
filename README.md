@@ -1,13 +1,13 @@
 # Mentors Wiki
 
 ## Table of Contents:
-  - [Scheduling](shifts.md#scheduling-shifts)
-  - [Shifts](shifts.md)
   - [Deputy](deputy.md)
+  - [Shifts](shifts.md)
+  - [Workday](workday.md)
+  - [Calendar](#calendar-overlay.md)
   - [What to do?](shifts.md#during-a-shift)
   - [Student Notes](#student-notes)
   - [Feedback](#giving-and-receiving-feedback)
-  - [Submit Hours in Workday](#how-to-submit-your-hours-in-workday)
   - [Meetings](#meetings)
   - [Code Review](code-review.md)
   - [F.A.Q.](faq.md)
@@ -20,17 +20,17 @@
 
 - [End of Session Form](https://docs.google.com/a/devbootcamp.com/forms/d/1bNIBtgy2ephY5117eHa31iFVgVRxPJAA0zzyeEqvTlA/viewform)
 
-- [Give a Mentor Feedback (Give to students)](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform)
-
-- [Deputy](https://sfmentors.na.deputy.com)
-
 - [Student Notes](https://mentor.devbootcamp.com/)
 
 - [On boarding Guide](onboarding.md)
 
-- [Mentor Status Sheet](https://docs.google.com/spreadsheets/d/1RgO926LYjNb4OuYwPOBIEkX3hjQNLmT-P99IEIxpmP0/edit?usp=sharing)
+- [Deputy](https://sfmentors.na.deputy.com)
+
+- [Give a Mentor Feedback (Student form)](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform)
 
 - [Student Facing Info](student-facing-mentors.md)
+
+- [Mentor Status Sheet](https://docs.google.com/spreadsheets/d/1RgO926LYjNb4OuYwPOBIEkX3hjQNLmT-P99IEIxpmP0/edit?usp=sharing) (Please update with current employment info)
 
 #### Contact Info:
 
@@ -39,6 +39,10 @@ Email List: sf.mentors@devbootcamp.com
 Slack: sfmentors
 
 Mentor Coordinator: Hunter T. Chapman <hunter@devbootcamp.com>
+
+#### Crucial Info:
+- Shift Scheduling via [Deputy](deputy.md)
+- Payroll via [Workday](workday.md)
 
 ----
 
@@ -63,9 +67,19 @@ Currently - If you are working a phase and require access to the org email the M
 
 Future Goal -- To accomplish this you have been added to the SF-Mentors team on GitHub. This team will be invited to each incoming Cohort Org, granting you full access to all material therein. Access Issues: Ensure that you have accepted the invitation from Github for each active Cohort, else contact Mentor Coordinator.
 
+#### Calendar Overlay:
+
+DBC recognizes that real life and the DBC phase calendar don't mesh well. To that end I have created a Google calendar overlay which you can import into your calendar. Then simply toggle it on on off to see what week in DBC land it is.
+
+Under 'Other Calendars' in Google Calendar click 'Add by URL'. Can also be added to other calendar apps. Your mileage may vary.
+
+```
+devbootcamp.com_t7fo1rq90dem3ldqbt3vdba4p4@group.calendar.google.com
+```
+
 #### Giving and Receiving Feedback:
 - Student feedback for Mentors will be collected during the weekly retro survey.
-- You are encouraged to solicit student feedback after sessions. This feedback will be reviewed by the Mentor Coordinator and distributed to the Mentor team weekly. The [Mentor feedback form](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform) provides a direct link for students to give feedback. This link will also be in the students guide.
+- You are encouraged to solicit student feedback after sessions. This feedback will be reviewed by the Mentor Coordinator and distributed to the Mentor team weekly. The [Mentor feedback form](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform) provides a direct link for students to give feedback. This link is in the phase guide under resources/mentors.md.
 
 #### Student Notes:
 
@@ -78,17 +92,9 @@ DBC has an application [mentor.devbootcamp.com](https://mentor.devbootcamp.com/)
   - Visible to Global DBC staff.
   - Information derived from your intuition or freely exchanged is legit. However, do not log any notes that would violate the trust of a student. If you have a difficult student interaction that you're not sure what to do with you can always have an 'asking for a friend' conversation with the Mentor Coordinator or a member of the counseling staff.
 
-
 #### Meetings:
 - 1st Monday of Phase @ 6:00 -- Optional powwow with Mentor Coordinator. Feel free to attend if you have questions or concerns.
 - 1st Monday of Phase @ 6:30 -- Meet the Mentors for incoming Cohort. Need 4 Mentors to attend each phase. This is mostly an introductory session for the new cohort. It's an excellent time for Mentors to establish culture and strategies for success @ DBC. Establish an informal conversational flow while briefing them on how best to interact with Mentors.
-
-#### How To Submit Your Hours in Workday:
-[Video Demo](https://drive.google.com/file/d/0B7uFhzfRtRRGSWlaWk1MS0ttb3gzaWJYenp3dlhPYl9nM253/view?usp=sharing)
-
-1. Login
-2. Go to the Time page
-3. Submit daily session totals which reflect hours worked and corresponds with Deputy
 
 #### Removal from the program:
 Mentors are expected to uphold the three agreements and location specific rules at all times. Failure to do so will result in removal from the program.

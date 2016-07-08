@@ -15,7 +15,7 @@
 
 ## FAQs
 
-### 1. What benefits am I eligible for?
+### What benefits am I eligible for?
 
 (1) **Commuter Benefits (www.WageWorks.com)**: The Commuter Benefits Program allows you to set aside pre-tax money for out-of-pocket, work-related parking and/or mass transit commuting expenses. Your election may be changed monthly, based on your changing transit needs. Expenses are limited to eligible commuter parking and/or mass transit expenses incurred by you. Examples of eligible expenses can include a paid parking facility at or near your place or work, commuter trains, subways, buses, ferries, and van pooling (with at least six passengers). For parking you may set aside up to $250 per month in 2015. For mass transit, you may set aside up to $130 per month in 2015.
 
@@ -48,18 +48,3 @@ further information.
 are entitled to additional savings!
 * **_Moving Services_** – Receive a 15% discount on hourly rates for local moves and 58% minimum discount for
 interstate and international moves.
-
-### 2.  How do I enter time when working in multiple circles as a mentor, interviewer, and/or Phase 0 guide?
-
-You need to carefully track and separate the hours that you work for each circle.  Code each increment of time to the appropriate cost center.
-
-When working as a mentor, code that time to the Local Circle cost center:
-- New York: UY7258
-- San Francisco: UY7199
-- Chicago: UY7200
-
-When working as an interviewer, code that time to the Admissions cost center: UY708842
-
-When working as a Phase 0 guide, code that time to the Phase 0 cost center: UY708833
-
-Note that your primary focus should be on finding a full-time job, so your total hours should stay at or below 20 hours per week.  If you are scheduled to work in excess of 20 hours during any given week, please reach out to your Local Lead Link for guidance.

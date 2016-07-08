@@ -20,11 +20,11 @@ The Commuter Benefits Program allows you to set aside pre-tax money for out-of-p
 
 ---
 
-_For things like coordinating the phase transition workshop (Intro to Sinatra), how does that fit into the booking sessions?_
+_For things like coordinating the phase transition workshop (Intro to Sinatra), how does that fit into the booking shifts?_
 
-We have Fixed Sessions on the calendar for existing events.  These will be pre-assigned to the main person (though if that person can’t do it they can pass it off). For example Whiteboard Wednesday will be a pre-assigned Fixed Session that is automatically assigned to John. Also the Sinatra Workshop would be a Fixed Session. The mentor who wants to run one of these would need to connect with the Mentor Coordinator to set the time and day.
+We have Fixed Shifts on the calendar for existing workshops. These will be pre-assigned to the main person (though if that person can’t do it they can pass it off). For example Whiteboard Wednesday will be a pre-assigned workshop that is automatically assigned to John or Jack. Also the Sinatra Workshop would be a Fixed Shift. The mentor who wants to run one of these would need to connect with the Mentor Coordinator to set the time and day.
 
-If there are additional Fixed Sessions that any mentor would like to have - they can request this from the Mentor Coordinator who will assess the number of mentoring hours available against the need for such a session.
+If there are additional Workshops that any mentor would like to have - they can request this from the Mentor Coordinator who will assess the number of mentoring hours available against the need for such a shift.
 
 ---
 
