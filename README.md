@@ -4,7 +4,7 @@
   - [Scheduling](shifts.md#scheduling-shifts)
   - [Shifts](shifts.md)
   - [Deputy](deputy.md)
-  - [What to do?](shift.md#shift-cadence)
+  - [What to do?](shifts.md#during-a-shift)
   - [Student Notes](#student-notes)
   - [Feedback](#giving-and-receiving-feedback)
   - [Submit Hours in Workday](#how-to-submit-your-hours-in-workday)
@@ -20,9 +20,9 @@
 
 - [End of Session Form](https://docs.google.com/a/devbootcamp.com/forms/d/1bNIBtgy2ephY5117eHa31iFVgVRxPJAA0zzyeEqvTlA/viewform)
 
-- [Deputy](https://sfmentors.na.deputy.com)
-
 - [Give a Mentor Feedback (Give to students)](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform)
+
+- [Deputy](https://sfmentors.na.deputy.com)
 
 - [Student Notes](https://mentor.devbootcamp.com/)
 
@@ -39,7 +39,6 @@ Email List: sf.mentors@devbootcamp.com
 Slack: sfmentors
 
 Mentor Coordinator: Hunter T. Chapman <hunter@devbootcamp.com>
-
 
 ----
 

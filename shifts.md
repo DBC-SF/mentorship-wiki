@@ -2,6 +2,10 @@
 
 A shift is time that you book via the Deputy app to Mentor @ DBC. If you book a shift you are expected to show up for that time slot. Shifts signups will be cross-referenced to actual hours logged as well as your Workday timesheet.
 
+### Scheduling Shifts:
+
+All shift scheduling is handled via the [Deputy app.](deputy.md)
+
 ### Shift Cadence:
 
 #### Before a Shift:
@@ -57,10 +61,6 @@ Mentors working on a workshop may bill a limited number of 'prep hours' in addit
 Once scheduled, a workshop should occur roughly at the same time and interval each phase. Changes or substitutions need to be discussed with the Mentor Coordinator in advance. You may consider pairing with another Mentor or two on a particular workshop, thus allowing some degree of flexibility while maintaining consistent delivery to students.
 
 Email or chat with the Mentor Coordinator to discuss picking up a workshop.
-
-### Scheduling Shifts:
-
-All shift scheduling is handled via the [Deputy app.](deputy.md)
 
 #### Mentor Usage in Other Roles:
 
