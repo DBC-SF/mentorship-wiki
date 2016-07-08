@@ -3,6 +3,7 @@
 ## Table of Contents:
   - [Scheduling](shifts.md#scheduling-shifts)
   - [Shifts](shifts.md)
+  - [Deputy](deputy.md)
   - [What to do?](shift.md#shift-cadence)
   - [Student Notes](#student-notes)
   - [Feedback](#giving-and-receiving-feedback)
@@ -14,14 +15,6 @@
 *****
 
 ### General
-
-#### Contact Info:
-
-Email List: sf.mentors@devbootcamp.com
-
-Slack: sfmentors
-
-Mentor Coordinator: Hunter T. Chapman <hunter@devbootcamp.com>
 
 #### Quick Links:
 
@@ -39,6 +32,14 @@ Mentor Coordinator: Hunter T. Chapman <hunter@devbootcamp.com>
 
 - [Student Facing Info](student-facing-mentors.md)
 
+#### Contact Info:
+
+Email List: sf.mentors@devbootcamp.com
+
+Slack: sfmentors
+
+Mentor Coordinator: Hunter T. Chapman <hunter@devbootcamp.com>
+
 
 ----
 
@@ -53,7 +54,7 @@ Mentor Coordinator: Hunter T. Chapman <hunter@devbootcamp.com>
 
 **Per Session**
 - [End of Session Report](https://docs.google.com/a/devbootcamp.com/forms/d/1bNIBtgy2ephY5117eHa31iFVgVRxPJAA0zzyeEqvTlA/viewform)
-- Log notes in [Mentor.devbootcamp.com](https://mentor.devbootcamp.com/)
+- Log notes as needed in [Mentor.devbootcamp.com](https://mentor.devbootcamp.com/)
 - Signin/Signout via Deputy Kiosk
 
 #### Access to Cohort Orgs:
@@ -65,7 +66,7 @@ Future Goal -- To accomplish this you have been added to the SF-Mentors team on 
 
 #### Giving and Receiving Feedback:
 - Student feedback for Mentors will be collected during the weekly retro survey.
-- You are encouraged to solicit student feedback after sessions. This feedback will be reviewed by the Mentor Coordinator and distributed to the Mentor team weekly. Use the give a [Mentor feedback form](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform). This link will also be in the students guide.
+- You are encouraged to solicit student feedback after sessions. This feedback will be reviewed by the Mentor Coordinator and distributed to the Mentor team weekly. The [Mentor feedback form](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform) provides a direct link for students to give feedback. This link will also be in the students guide.
 
 #### Student Notes:
 
@@ -76,7 +77,7 @@ DBC has an application [mentor.devbootcamp.com](https://mentor.devbootcamp.com/)
   - Cultural as well as technical notes are encouraged.
   - Notes are permanent.
   - Visible to Global DBC staff.
-  - Information derived from your intuition or freely exchanged is legit. However, do not log any notes that would violate the trust of a student. If you have a difficult student interaction that you're not sure what to do with you can always have an 'asking for a friend' conversation with the Mentor Coordinator.
+  - Information derived from your intuition or freely exchanged is legit. However, do not log any notes that would violate the trust of a student. If you have a difficult student interaction that you're not sure what to do with you can always have an 'asking for a friend' conversation with the Mentor Coordinator or a member of the counseling staff.
 
 
 #### Meetings:

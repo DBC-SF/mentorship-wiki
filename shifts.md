@@ -8,7 +8,7 @@ A shift is time that you book via the Deputy app to Mentor @ DBC. If you book a 
 - Review the challenges the students will be working on by checking each of their phase guides in the respective cohort organizations. You can access these through your GitHub account. If you do not have access email the Mentor Coordinator.
 
 #### During a Shift:
-- Sign in for your shift via the Mentor Kiosk.
+- Sign in for your shift via the [Deputy Mentor Kiosk](https://www.deputy.com/features/time-clock).
 - Your name and profile picture will be displayed on DBC-Infowall
 - Still, please let the students know you're available.
 - Take walks up and down the aisles every so often - some students don't ask questions unless you pass by.
@@ -60,57 +60,7 @@ Email or chat with the Mentor Coordinator to discuss picking up a workshop.
 
 ### Scheduling Shifts:
 
-#### Deputy:
-
-We use the [Deputy](https://sfmentors.na.deputy.com) app to:
-  - Signup for shifts
-  - Signin / Signout for your shift
-  - See other Mentors on the schedule
-  - Track your hours accurately
-
-[DBC Deputy Tutorial](https://github.com/jbomotti/deputy_docs) - Image's are mini video how-to's
-
-**Signup Process:**
-
-  - Shifts for the upcoming phase will be published during week 2 of a phase.
-  - You will receive an email notification that shifts are available.
-  - Signin to Deputy whenever you like to claim shifts.
-  - Currently, shift signup is first come first serve.
-  - Deputy restricts hours you can signup for as follows:
-    - Max 20 hours per week
-    - Max 4 hours per shift
-    - Max 8 hours per day
-    - Max 5 days per week.
-
-**Structure:**
-
-Shifts are split up into areas. As a mentor you will be assigned to one or more of these areas. You will only see signups for shifts that are included within your approved areas. ie: Phase 1, Workshops,
-
-Areas:
-  - (Open to all Mentors)
-    - Evening Floater
-    - Weekend Floater
-    - Campus Tours
-    - Marketing Event
-  - (Assigned by Mentor Coordinator)
-    - Phase 1
-    - Phase 2
-    - Phase 3
-    - Workshops
-  - (Require Mentor Coordinator approval)
-    - Admissions / Interviews
-    - Remote Support
-    - Phase 0 Guide
-
-**Credentials:**
-
-All Mentors should receive an invite to Deputy during onboarding. Please email the Mentor Coordinator with any issues.
-
-**Deputy Side Notes:**
-
-- You can access Deputy via web or native mobile app.
-- I really don't like the name Deputy, it has an under the thumb connotation that I hope none of you ever feel approaches reality. That said, out of the software we trialled, this was the best thing going.
-- The Kiosk takes a picture when you signin/signout. Yes I know it's dumb. We don't keep the photo's. Photos are stored on the Deputy DB and wiped along with all other data when/if you are offboarded from DBC.
+All shift scheduling is handled via the [Deputy app.](deputy.md)
 
 #### Mentor Usage in Other Roles:
 
