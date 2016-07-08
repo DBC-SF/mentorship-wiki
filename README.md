@@ -1,11 +1,10 @@
 # Mentors Wiki
 
 ## Table of Contents:
-  - [Scheduling](sessions.md#phasely-scheduling)
-  - [Sessions](sessions.md)
-  - [What to do?](sessions.md#session-cadence)
+  - [Scheduling](shifts.md#scheduling-shifts)
+  - [Shifts](shifts.md)
+  - [What to do?](shift.md#shift-cadence)
   - [Student Notes](#student-notes)
-  - [Daytime Mentor Slots](#daytime-mentor-slots)
   - [Feedback](#giving-and-receiving-feedback)
   - [Submit Hours in Workday](#how-to-submit-your-hours-in-workday)
   - [Meetings](#meetings)
@@ -28,7 +27,7 @@ Mentor Coordinator: Hunter T. Chapman <hunter@devbootcamp.com>
 
 - [End of Session Form](https://docs.google.com/a/devbootcamp.com/forms/d/1bNIBtgy2ephY5117eHa31iFVgVRxPJAA0zzyeEqvTlA/viewform)
 
-- [Appointment Booking Page](https://calendar.google.com/calendar/selfsched?sstoken=UUQ0LUNTY0xtTnpufGRlZmF1bHR8MDJjOGU2M2IxOTMwMDg0OWNmN2M1N2I5YTI3NTJiYmM)
+- [Deputy](https://sfmentors.na.deputy.com)
 
 - [Give a Mentor Feedback (Give to students)](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform)
 
@@ -55,6 +54,7 @@ Mentor Coordinator: Hunter T. Chapman <hunter@devbootcamp.com>
 **Per Session**
 - [End of Session Report](https://docs.google.com/a/devbootcamp.com/forms/d/1bNIBtgy2ephY5117eHa31iFVgVRxPJAA0zzyeEqvTlA/viewform)
 - Log notes in [Mentor.devbootcamp.com](https://mentor.devbootcamp.com/)
+- Signin/Signout via Deputy Kiosk
 
 #### Access to Cohort Orgs:
 You need access to Cohort Orgs to perform code reviews and gain general insight of material on a phase.
@@ -76,30 +76,8 @@ DBC has an application [mentor.devbootcamp.com](https://mentor.devbootcamp.com/)
   - Cultural as well as technical notes are encouraged.
   - Notes are permanent.
   - Visible to Global DBC staff.
+  - Information derived from your intuition or freely exchanged is legit. However, do not log any notes that would violate the trust of a student. If you have a difficult student interaction that you're not sure what to do with you can always have an 'asking for a friend' conversation with the Mentor Coordinator.
 
-#### Daytime Mentor Slots:
-
-  - Slots marked PH/1/2/3 are filled by the Mentor Coordinator.
-  - Slots marked *HR Float are bookable by all Mentors.
-  - Some phases may have different AM/PM Mentors.
-
-#### Mentor Usage in Other Roles:
-
-**Important Note:** Regardless of what you are working on over the week, you are limited to 20 hours per week *total* without specific approval of the Mentor Coordinator.
-
-The core Mentor role is to provide direct floor support or workshops on-site. However, Mentors are being pulled in many different directions outside this role. Such as:
-
-- Info Panels
-- Remote Mentoring for satellite locations
-- Hackathon Support
-- Community Outreach Events
-- Tours
-- Admissions
-- Whatever else
-
-__Additional updates on this process are coming very soon.__
-
-For now simply track Non-Core Mentor Activities in the __SF Mentor Activities calendar__. Create an event on this calendar that reflects the hours worked. Name the event for whatever you were doing.
 
 #### Meetings:
 - 1st Monday of Phase @ 6:00 -- Optional powwow with Mentor Coordinator. Feel free to attend if you have questions or concerns.
@@ -110,7 +88,7 @@ For now simply track Non-Core Mentor Activities in the __SF Mentor Activities ca
 
 1. Login
 2. Go to the Time page
-3. Submit daily session totals which reflect hours worked and corresponds with the SF Mentor Calendar
+3. Submit daily session totals which reflect hours worked and corresponds with Deputy
 
 #### Removal from the program:
 Mentors are expected to uphold the three agreements and location specific rules at all times. Failure to do so will result in removal from the program.
