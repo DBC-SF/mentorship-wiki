@@ -46,7 +46,8 @@ There are several Workshops available.
   - Intro to Javascript Week 1 weekend **Stephanie Hutson / Xander Peterson**
   - Intro to Sinatra - Phase transition weekend **Kevin Serrano**
   - Intro to Git Workflow - Week 1 Thursday **Hanah Yendler**
-  - Intro to ReactJS - Week 1 Weekend **Lu DeCastro**
+  - Intro to ReactJS - Week 2 Sunday **Lu DeCastro**
+  - Intro to ReactNative - Week 2 Thursday **Lu DeCastro**
   - Advanced Git Workflow w/ ReBase - **OPEN**
   - Intro to Rails - Phase transition weekend **OPEN**
   - Intro to JS Framework (your choice) - Week 2 Saturday **OPEN**
@@ -72,7 +73,6 @@ The core Mentor role is to provide direct floor support or workshops on-site. Ho
 - Remote Mentoring for satellite locations
 - Hackathon Support
 - Community Outreach Events
-- Tours
 - Admissions
 - Whatever else
 
@@ -82,10 +82,10 @@ These non-core shifts may be shown on the Deputy signup page but most likely you
 
 **Logging an Unscheduled Shift:**
 
-- Use you mobile device to signin for your shift.
+- Use you mobile device or the Deputy Kiosk to signin for your shift.
 - Scroll down the list of areas until you find the right one and select it.
-- Use you mobile device to signout for your shift.
-- Enter a note describing the work performed during the unscheduled shift
+- Use you mobile device or the Deputy Kiosk to signout for your shift.
+- Enter a note describing the work performed during the unscheduled shift.
 - All non-scheduled shifts will have an timesheet marked Pending Approval upon completion.
 
 
@@ -145,9 +145,9 @@ As of now it is my belief that the members of the Core Team are capable of sorti
 
 There are two Campus Tours shifts scheduled per week. On Tuesday and Thursday from 4:00-6:00.
 
-Mentors signing up for these should be extra outgoing and positive, enjoy talking about their DBC experience and be comfortable taking delivery notes from Andrew in marketing.
+Mentors signing up for these should be extra outgoing, positive, enjoy talking about their DBC experience and be comfortable taking delivery notes from Andrew in marketing.
 
-Cost Center Note: These scheduled shifts are covered under DBC SF budget and treated as part of 'Mentor Core Delivery' no need to enter the marketing cost center when filling out time in Workday.
+**Cost Center Note:** These scheduled shifts are covered under DBC SF budget and treated as part of 'Mentor Core Delivery' no need to enter the marketing cost center when filling out time in Workday.
 
 
 

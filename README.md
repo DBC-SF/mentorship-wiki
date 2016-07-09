@@ -42,6 +42,7 @@ Mentor Coordinator: Hunter T. Chapman <hunter@devbootcamp.com>
 
 #### Crucial Info:
 - Shift Scheduling via [Deputy](deputy.md)
+- Shift
 - Payroll via [Workday](workday.md)
 
 ----
