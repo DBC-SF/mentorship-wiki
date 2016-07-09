@@ -18,7 +18,7 @@ Use Deputy Mobile when shift occurs offsite.
 
 You cannot use the web interface to signin / signout
 
-A general how to can be found [below](#kiosk).
+A general how to can be found below in the Kiosk section.
 
 #### Scheduling Details
 
