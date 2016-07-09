@@ -4,13 +4,13 @@
   - [Deputy](deputy.md)
   - [Shifts](shifts.md)
   - [Workday](workday.md)
-  - [Calendar](#calendar-overlay.md)
   - [What to do?](shifts.md#during-a-shift)
   - [Student Notes](#student-notes)
   - [Feedback](#giving-and-receiving-feedback)
   - [Meetings](#meetings)
   - [Code Review](code-review.md)
   - [F.A.Q.](faq.md)
+  - [DBC-Schedule-Overlay](#calendar-overlay.md)
 
 *****
 
