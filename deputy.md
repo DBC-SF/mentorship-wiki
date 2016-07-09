@@ -48,13 +48,37 @@ All Mentors should receive an invite to Deputy during onboarding. Please email t
 
 #### TimeSheets
 
-Deputy creates a timesheet whenever you complete a shift. If your signin/signout times are within a 1 hour variance of a scheduled shift you claimed the timesheet is auto approved. If you work a shift that is not scheduled in advance (ie: marketing event) or if you work a drastically different time than you were scheduled for the timesheet will read Pending Approval. You should add a note to the timesheet as to the cause of the irregularity. The Mentor Coordinator will review all non-approved timesheets each week. Generally this will be checking the box and moving on but if a negative pattern emerges you may be in for a chat.
-
-Main takeaway here is that for the vast majority of you timesheets in Deputy are not really something to worry with, although they would make an excellent reference when logging your hours.
-
 **Important Note:**
 - Deputy timesheet entries DO NOT replace the requirement to report your hours in workday.
 - Deputy timesheets are cross referenced randomly to Workday hour submissions.
+
+Deputy creates a timesheet whenever you complete a shift.
+
+If your signin/signout times are within a 1 hour variance of a scheduled shift you claimed the timesheet is auto approved a few minutes after the shift ends.
+
+If you work a shift that is not scheduled in advance (ie: marketing event) or if you work a drastically different time than you were scheduled the timesheet will read Pending Approval. You should add a comment as to the cause of the irregularity. The Mentor Coordinator will review all non-approved timesheets each week. Generally this will be checking the box and moving on but if a negative pattern emerges you may be in for a chat.
+
+Main takeaway here is that for the vast majority of you timesheets in Deputy are not really something to worry with, although they would make an excellent reference when logging your hours.
+
+#### Kisok
+
+The [Kisok Product Page](https://www.deputy.com/features/time-clock) will provide you with a great overview of how to interact with the system.
+
+During the initial run the Kiosk will be located in the Teachers Lounge @ DBC (TreeHouse) plugged in by the TV. Feel free to pop in and use it to signin/signout. If all goes reasonably well we will mount it permanently up front somewhere: TBD.
+
+Kiosk Process:
+- Signin/Signout by selecting your name from the list on the left.
+- The picture you see in the list is the one displayed on the Infowall.
+- Enter your pin. Pin can be found under Deputy Profile. I recommend changing it to some easily remembered.
+- Tap Start Shift / End Shift in the upper right.
+- Smile! Kiosk will snap your photo.
+- For scheduled shifts your done. Logout and get to it.
+- For an unscheduled shift choose the appropriate area from the list.
+- When ending a shift you may choose to leave a comment in lieu of filling out the End of Session form. If comments took over I would do away with the EOS form altogether...
+- Disregard the Take Break button. DBC shifts are designed to run break free. If you have two shifts with lunch in between that's two separate shifts.
+- If you are working two back to back shifts ie: 6-8,8-10 you may stay signed in for the first throughout. Just make a comment when you signout.
+
+The Kiosk App offers additional features outside of signin/signout. Right now don't worry with it too much although if you see a good use feel free to play around. Might be a great way to share cohort information day to day.
 
 #### Deputy Side Notes
 
@@ -69,12 +93,5 @@ Main takeaway here is that for the vast majority of you timesheets in Deputy are
 -Historical aside aside and back to the subject at hand, I tested several of these products with a few mentors and this was the best thing going.
 - The app is capable of more than we need and that's OK. Just stick with the functionality detailed within the Wiki.
 - Feedback encouraged :-)
-
-#### Kisok Location
-
-During the initial run the Kiosk will be in the Teachers Lounge @ DBC (TreeHouse) plugged in by the TV. Feel free to pop in and use it to signin/signout.
-
-If all goes reasonably well we will mount it permanently up front somewhere: TBD.
-
 
 ![dawg](https://pbs.twimg.com/profile_images/532612904197951489/0tsh5l5H.jpeg)
