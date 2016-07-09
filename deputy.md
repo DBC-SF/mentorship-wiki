@@ -1,6 +1,6 @@
 ![deputy](http://www2.pcmag.com/media/images/493938-deputy-logo.jpg?thumb=y)
 
-Deputy is a third Party Software used by DBC SF to schedule and track Mentors.
+Deputy is a third Party Software used by DBC SF to schedule and track Mentors. It has a web, native mobile and kiosk interface.
 
 [DBC Deputy Tutorial](https://github.com/jbomotti/deputy_docs) - Images are mini video how-to's
 
@@ -9,6 +9,16 @@ You will use the [Deputy](https://sfmentors.na.deputy.com) app to:
   - Signin / Signout for your shift
   - See other Mentors on the schedule
   - Track your hours accurately
+
+#### signin / signout:
+
+Use Deputy Kiosk when shift occurs onsite.
+
+Use Deputy Mobile when shift occurs offsite.
+
+You cannot use the web interface to signin / signout
+
+A general how to can be found [below](#kiosk).
 
 #### Scheduling Details
 
