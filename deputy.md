@@ -70,9 +70,9 @@ If you work a shift that is not scheduled in advance (ie: marketing event) or if
 
 Main takeaway here is that for the vast majority of you timesheets in Deputy are not really something to worry with, although they would make an excellent reference when logging your hours.
 
-#### Kisok
+#### Kiosk
 
-The [Kisok Product Page](https://www.deputy.com/features/time-clock) will provide you with a great overview of how to interact with the system.
+The [Kiosk Product Page](https://www.deputy.com/features/time-clock) will provide you with a great overview of how to interact with the system.
 
 During the initial run the Kiosk will be located in the Teachers Lounge @ DBC (TreeHouse) plugged in by the TV. Feel free to pop in and use it to signin/signout. If all goes reasonably well we will mount it permanently up front somewhere: TBD.
 
