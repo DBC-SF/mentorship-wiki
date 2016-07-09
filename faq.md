@@ -31,7 +31,3 @@ If there are additional Workshops that any mentor would like to have - they can 
 _Are there opportunities for title advancement/pay increase?_
 
 Currently there are no opportunities for title advancement or pay increase. Mentors that have been doing particular activities will be given preference for doing these.
-
-There may be title advancement in the future - Need to get the program up and running first.
-
-There will not be opportunities for pay increase.

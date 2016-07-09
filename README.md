@@ -20,7 +20,7 @@
 
 - [End of Session Form](https://docs.google.com/a/devbootcamp.com/forms/d/1bNIBtgy2ephY5117eHa31iFVgVRxPJAA0zzyeEqvTlA/viewform)
 
-- [Student Notes](https://mentor.devbootcamp.com/)
+- [Mentor.devbootcamp](https://mentor.devbootcamp.com/) (Student Note App)
 
 - [On boarding Guide](onboarding.md)
 
@@ -79,7 +79,7 @@ devbootcamp.com_t7fo1rq90dem3ldqbt3vdba4p4@group.calendar.google.com
 
 #### Giving and Receiving Feedback:
 - Student feedback for Mentors will be collected during the weekly retro survey.
-- You are encouraged to solicit student feedback after sessions. This feedback will be reviewed by the Mentor Coordinator and distributed to the Mentor team weekly. The [Mentor feedback form](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform) provides a direct link for students to give feedback. This link is in the phase guide under resources/mentors.md.
+- You are encouraged to solicit student feedback after a shift. This feedback will be reviewed by the Mentor Coordinator and distributed to the Mentor team weekly. The [Mentor feedback form](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform) provides a direct link for students to give feedback. This link is in the phase guide under resources/mentors.md.
 
 #### Student Notes:
 

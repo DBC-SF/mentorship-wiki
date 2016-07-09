@@ -110,7 +110,7 @@ Mentor Types:
 
 A Mentor that will most likely follow a given cohort through the program.
 
-Typically this starts in Phase 1, although we due replace Cohort Mentors when a Mentor gets a job.
+Typically this starts in Phase 1, although we do replace Cohort Mentors when a Mentor gets a job.
 
 The single AM shift is reserved first for the Cohort Mentor and should be predominantly filled by the Cohort Mentor. Other Core Team Mentors can book the AM shift only after they see that the Cohort Mentor has taken slots for the week.
 
