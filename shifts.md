@@ -76,7 +76,7 @@ The core Mentor role is to provide direct floor support or workshops on-site. Ho
 - Admissions
 - Whatever else
 
-**Important Note:** If you are working for another department outside core DBC floor support, that department must provide you with a cost center code PRIOR to you starting a shift. This code will be required when submitting time in Workday.
+**Important Note:** If you are working for another department outside core DBC floor support, that department must provide you with a cost center code PRIOR to you starting a shift. This code will be required when submitting time in [Workday](workday.md).
 
 These non-core shifts may be shown on the Deputy signup page but most likely you will be working outside a preexisting shift. If the shift does exist just signup/signin as usual otherwise...
 
@@ -86,11 +86,68 @@ These non-core shifts may be shown on the Deputy signup page but most likely you
 - Scroll down the list of areas until you find the right one and select it.
 - Use you mobile device to signout for your shift.
 - Enter a note describing the work performed during the unscheduled shift
+- All non-scheduled shifts will have an timesheet marked Pending Approval upon completion.
 
 
+#### Dayside Shifts: (AKA: Core Team)
 
+Shifts that occur M-F during core hours @ DBC are considered part of the 'Dayside Team'
+Mentors are selected for the dayside team based on feedback from students, DBC instructor observations and most importantly how engaged you were as a student during DBC.
 
+Currently the core team is broken down **generally** as follows:
 
+Shifts:
+- 1 AM shift  per day per phase
+- 2 PM shifts per day per phase
+- No Phase 3 shifts after final project start.
+
+Mentor Types:
+- Cohort Mentor
+- Phase Mentor
+- Floating Mentor
+
+**Cohort Mentor**
+
+A Mentor that will most likely follow a given cohort through the program.
+
+Typically this starts in Phase 1, although we due replace Cohort Mentors when a Mentor gets a job.
+
+The single AM shift is reserved first for the Cohort Mentor and should be predominantly filled by the Cohort Mentor. Other Core Team Mentors can book the AM shift only after they see that the Cohort Mentor has taken slots for the week.
+
+Taking on the Cohort Mentor role bears additional responsibilities:
+
+  - Tighter feedback loop with DBC staff
+  - Cultural leadership
+  - Increased expectation for leading breakouts
+  - Increased expectation for conducting Github code reviews
+  - Stronger scheduling commitment
+
+**Phase Mentor**
+
+Phase Mentors focus their efforts on a specific phase.
+
+  - Focus on a specific phase
+  - Leads to an increase in comfort with the material / better overall technical delivery to students.
+  - Shifts should be primarily in one phase for some length of time.
+  - You can schedule a few shifts here and there to provide consistent coverage just ensure the majority of your shifts from your phase.
+
+**Floating Mentor**
+
+- Free to plug in plug out wherever.
+- Only 1-2 Core Team Mentors will be Floating Mentors.
+- Most flex in schedule as this Mentor is utilized extensively to fill gaps in the schedule.
+
+**Filling Mentor Types on the Dayside Team:**
+
+As of now it is my belief that the members of the Core Team are capable of sorting out who can or should go where based on your needs / wants / abilities as a group. You are a small team, leaving it in your hands provides much needed flexibility for that other thing called life and that other other thing called the search. If that doesn't work out I can go back to picking who for when myself, but I think this way is way better if you approach it in a collaborative manner.
+
+#### Campus Tours
+
+There are two Campus Tours shifts scheduled per week. On Tuesday and Thursday from 4:00-6:00.
+
+Mentors signing up for these should be extra outgoing and positive, enjoy talking about their DBC experience and be comfortable taking delivery notes from Andrew in marketing.
+
+Cost Center Note: These scheduled shifts are covered under DBC SF budget and treated as part of 'Mentor Core Delivery' no need to enter the marketing cost center when filling out time in Workday.
 
 
 

@@ -103,3 +103,6 @@ Mentors are expected to work at least 5 hours a month to remain active in the pr
 
 ## Anything Else...
 If there is something that should be covered here please email the Mentor Coordinator or open a PR.
+
+####[Parting Thought:](jobs.md)
+

@@ -1,3 +1,11 @@
+#### When to Submit Your Hours:
+
+Submission of your hours should occur no-later than every Friday.
+
+The only exception to this is if you are working a Saturday shift, in which case Saturday Evening submission is the latest.
+
+Logging your hours before these times greatly reduces the approval process as well the chance for a late check.
+
 #### How To Submit Your Hours in Workday:
 [Video Demo](https://drive.google.com/file/d/0B7uFhzfRtRRGSWlaWk1MS0ttb3gzaWJYenp3dlhPYl9nM253/view?usp=sharing)
 
