@@ -35,3 +35,5 @@ Getting your first gig with no experience in SF **will be a daunting affair**. T
   - 5-7HR/week Meetups / Out of your Comfort Zone / Meetups
   - 5-7HR/week Collaborating / Maintaining Accountability Relationships
 - If someone offers you a coding job, even if it's not that great, you should really consider taking it. Previous Job Experience is the number one thing standing between where you are today and where you want to be as a Developer. Work the gig 6 months or so, get stable and start looking again. You'll be amazed how much easier it is with experience under your belt and no runway looming overhead.
+
+[Related Good Read](http://sobit.me/2016/07/08/amazon-software-engineer-interview/)
