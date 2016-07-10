@@ -14,6 +14,10 @@
 
 *****
 
+Flash Notice:
+
+Any shifts scheduled by night and weekend mentors under the old calendar for the upcoming phase will be honored under the new schedule for this phase only. Simply signin for the shift as an unscheduled shift and leave a note when signing out that the shift was previously scheduled.
+
 ### General
 
 #### Quick Links:
