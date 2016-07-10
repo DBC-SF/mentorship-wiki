@@ -6,6 +6,29 @@ A shift is time that you book via the Deputy app to Mentor @ DBC. If you book a 
 
 All shift scheduling is handled via the [Deputy app.](deputy.md)
 
+Shift Signup Timeline:
+
+- All Mentors book sessions from premade shifts for the upcoming phase.
+- Mentors select from available shifts over 3 rounds at times listed below.
+- The first two rounds selections are limited to __5 hours per Mentor per week__ excluding preassigned slots. Additional hours can be picked up in the open final round.
+- Update [this sheet](https://docs.google.com/spreadsheets/d/1RgO926LYjNb4OuYwPOBIEkX3hjQNLmT-P99IEIxpmP0/edit#gid=0) for eligibility for the first round.
+
+- First Round:
+  - __Dayside Mentors__
+    - Open: Week 2 Friday @ 7:00 PM
+    - Close: Wednesday @ 7:00 PM Week 3.
+  - __Mentors currently employed as Devs__
+    - Open: Week 2 Friday @ 7:00 PM
+    - Close: Sunday @ 7:00 PM.
+- Second Round:
+  - __Non-Employed Mentors__
+    - Open: Sunday @ 7:00 PM Week 3
+    - Close: Wednesday @ 7:00 PM Week 3.
+- Final Round:
+  - __All Mentors__ Open Final Round:
+    - Open: Wednesday @ 7:00 PM of Week 3
+    - All remaining shifts are __Up for grabs to all Mentors__.
+
 ### Shift Cadence:
 
 #### Before a Shift:
