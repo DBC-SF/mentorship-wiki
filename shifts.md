@@ -15,14 +15,14 @@ Shift Signup Timeline:
 
 - First Round:
   - __Dayside Mentors__
-    - Open: Week 2 Friday @ 7:00 PM
+    - Open: Week 2 Friday afternoon.
     - Close: Wednesday @ 7:00 PM Week 3.
   - __Mentors currently employed as Devs__
-    - Open: Week 2 Friday @ 7:00 PM
+    - Open: Week 2 Friday afternoon.
     - Close: Sunday @ 7:00 PM.
 - Second Round:
   - __Non-Employed Mentors__
-    - Open: Sunday @ 7:00 PM Week 3
+    - Open: Sunday @ 7:00 PM Week 3.
     - Close: Wednesday @ 7:00 PM Week 3.
 - Final Round:
   - __All Mentors__ Open Final Round:
@@ -109,7 +109,7 @@ These non-core shifts may be shown on the Deputy signup page but most likely you
 - Scroll down the list of areas until you find the right one and select it.
 - Use you mobile device or the Deputy Kiosk to signout for your shift.
 - Enter a note describing the work performed during the unscheduled shift.
-- All non-scheduled shifts will have an timesheet marked Pending Approval upon completion.
+- All non-scheduled shifts will have a timesheet marked 'Pending Approval' upon completion.
 
 
 #### Dayside Shifts: (AKA: Core Team)
@@ -152,7 +152,7 @@ Phase Mentors focus their efforts on a specific phase.
   - Focus on a specific phase
   - Leads to an increase in comfort with the material / better overall technical delivery to students.
   - Shifts should be primarily in one phase for some length of time.
-  - You can schedule a few shifts here and there to provide consistent coverage just ensure the majority of your shifts from your phase.
+  - Phase Mentors can schedule a few shifts here and there to fill gaps in coverage, just ensure the majority of your shifts are from your phase.
 
 **Floating Mentor**
 
@@ -168,11 +168,6 @@ As of now it is my belief that the members of the Core Team are capable of sorti
 
 There are two Campus Tours shifts scheduled per week. On Tuesday and Thursday from 4:00-6:00.
 
-Mentors signing up for these should be extra outgoing, positive, enjoy talking about their DBC experience and be comfortable taking delivery notes from Andrew in marketing.
+Mentors signing up for tours should be extra outgoing, positive, enjoy talking about their DBC experience and be comfortable taking delivery notes from Andrew in marketing.
 
 **Cost Center Note:** These scheduled shifts are covered under DBC SF budget and treated as part of 'Mentor Core Delivery' no need to enter the marketing cost center when filling out time in Workday.
-
-
-
-
-
