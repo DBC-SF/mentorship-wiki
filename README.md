@@ -7,6 +7,7 @@
 2. Removed iPad kiosk for shift signin / signout after poor initial feedback. Please download the native mobile app to your phone and use it for signing in/out of your shifts. If this is a presents a technical barrier for anyone please email me directly.
 
 ## Table of Contents:
+
   - [Shifts](shifts.md)
   - [Deputy](deputy.md)
   - [Workday](workday.md)
@@ -22,7 +23,7 @@
 
 *****
 
-### General
+## General
 
 #### Quick Links:
 
@@ -45,6 +46,7 @@ Slack: sfmentors
 Mentor Coordinator: Hunter T. Chapman <hunter@devbootcamp.com>
 
 #### Crucial Info:
+
 - [Shift Protocols](shifts.md)
 - Shift Scheduling via [Deputy](deputy.md)
 - Payroll via [Workday](workday.md)
@@ -66,6 +68,7 @@ Mentor Coordinator: Hunter T. Chapman <hunter@devbootcamp.com>
 - Signin/Signout via Deputy Kiosk
 
 #### Access to Cohort Orgs:
+
 You need access to Cohort Orgs to perform code reviews and gain general insight of material on a phase.
 
 Currently - If you are working a phase and require access to the org email the Mentor Coordinator to be added in.
@@ -83,6 +86,7 @@ devbootcamp.com_t7fo1rq90dem3ldqbt3vdba4p4@group.calendar.google.com
 ```
 
 #### Giving and Receiving Feedback:
+
 - Student feedback for Mentors will be collected during the weekly retro survey.
 - You are encouraged to solicit student feedback after a shift. This feedback will be reviewed by the Mentor Coordinator and distributed to the Mentor team weekly. The [Mentor feedback form](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform) provides a direct link for students to give feedback. This link is in the phase guide under resources/mentors.md.
 
@@ -98,15 +102,18 @@ DBC has an application [mentor.devbootcamp.com](https://mentor.devbootcamp.com/)
   - Information derived from your intuition or freely exchanged is legit. However, do not log any notes that would violate the trust of a student. If you have a difficult student interaction that you're not sure what to do with you can always have an 'asking for a friend' conversation with the Mentor Coordinator or a member of the counseling staff.
 
 #### Meetings:
+
 - 1st Monday of Phase @ 6:00 -- Optional powwow with Mentor Coordinator. Feel free to attend if you have questions or concerns.
 - 1st Monday of Phase @ 6:30 -- Meet the Mentors for incoming Cohort. Need 4 Mentors to attend each phase. This is mostly an introductory session for the new cohort. It's an excellent time for Mentors to establish culture and strategies for success @ DBC. Establish an informal conversational flow while briefing them on how best to interact with Mentors.
 
 #### Removal from the program:
+
 Mentors are expected to uphold the three agreements and location specific rules at all times. Failure to do so will result in removal from the program.
 
 Mentors are expected to work at least 5 hours a month to remain active in the program. Mentors working less than this will be contacted and asked to increase their hours or to retire from the program if they do not wish to work the minimum. Retired mentors can re-apply to the program at a later time. If you require a short term waiver (vacation, travel, etc) contact the Mentor Coordinator.
 
 ## Anything Else...
+
 If there is something that should be covered here please email the Mentor Coordinator or open a PR.
 
 ####[Parting Thought:](jobs.md)
