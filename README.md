@@ -1,8 +1,14 @@
 # Mentors Wiki
 
+#### Flash Notice: Temp notes on new scheduling implementation.
+
+1. Any shifts scheduled by night and weekend mentors under the old calendar for the upcoming phase will be honored under the new schedule for this phase only. Simply signin for the shift as an unscheduled shift and leave a note when signing out that the shift was previously scheduled.
+
+2. Removed iPad kiosk for shift signin / signout after poor initial feedback. Please download the native mobile app to your phone and use it for signing in/out of your shifts. If this is a presents a technical barrier for anyone please email me directly.
+
 ## Table of Contents:
-  - [Deputy](deputy.md)
   - [Shifts](shifts.md)
+  - [Deputy](deputy.md)
   - [Workday](workday.md)
   - [What to do?](shifts.md#during-a-shift)
   - [Student Notes](#student-notes)
@@ -11,12 +17,10 @@
   - [Code Review](code-review.md)
   - [F.A.Q.](faq.md)
   - [DBC-Schedule-Overlay](#calendar-overlay.md)
+  - [On boarding Guide](onboarding.md)
+  - [Student Facing Info](student-facing-mentors.md)
 
 *****
-
-Flash Notice:
-
-Any shifts scheduled by night and weekend mentors under the old calendar for the upcoming phase will be honored under the new schedule for this phase only. Simply signin for the shift as an unscheduled shift and leave a note when signing out that the shift was previously scheduled.
 
 ### General
 
@@ -26,13 +30,9 @@ Any shifts scheduled by night and weekend mentors under the old calendar for the
 
 - [Mentor.devbootcamp](https://mentor.devbootcamp.com/) (Student Note App)
 
-- [On boarding Guide](onboarding.md)
-
-- [Deputy](https://sfmentors.na.deputy.com)
-
 - [Give a Mentor Feedback (Student form)](https://docs.google.com/a/devbootcamp.com/forms/d/17gVpZgsiadJ9OblHMmxroAWAZcbKaQSyJzJ7Kpx-sbc/viewform)
 
-- [Student Facing Info](student-facing-mentors.md)
+- [Deputy](https://sfmentors.na.deputy.com)
 
 - [Mentor Status Sheet](https://docs.google.com/spreadsheets/d/1RgO926LYjNb4OuYwPOBIEkX3hjQNLmT-P99IEIxpmP0/edit?usp=sharing) (Please update with current employment info)
 
@@ -45,8 +45,8 @@ Slack: sfmentors
 Mentor Coordinator: Hunter T. Chapman <hunter@devbootcamp.com>
 
 #### Crucial Info:
+- [Shift Protocols](shifts.md)
 - Shift Scheduling via [Deputy](deputy.md)
-- Shift
 - Payroll via [Workday](workday.md)
 
 ----

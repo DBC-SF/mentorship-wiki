@@ -1,6 +1,6 @@
 ![deputy](http://www2.pcmag.com/media/images/493938-deputy-logo.jpg?thumb=y)
 
-Deputy is a third Party Software used by DBC SF to schedule and track Mentors. It has a web, native mobile and kiosk interface.
+Deputy is a third Party Software used by DBC SF to schedule and administer Mentors shifts. It has a web and native mobile interface.
 
 [DBC Deputy Tutorial](https://github.com/jbomotti/deputy_docs) - Images are mini video how-to's
 
@@ -12,11 +12,7 @@ You will use the [Deputy](https://sfmentors.na.deputy.com) app to:
 
 #### signin / signout:
 
-Use Deputy Kiosk when shift occurs onsite.
-
-Use Deputy Mobile when shift occurs offsite.
-
-You cannot use the web interface to signin / signout
+Use Deputy Mobile for signing in/out of your shift.
 
 A general how to can be found below in the Kiosk section.
 
@@ -70,32 +66,11 @@ If you work a shift that is not scheduled in advance (ie: marketing event) or if
 
 Main takeaway here is that for the vast majority of you timesheets in Deputy are not really something to worry with, although they would make an excellent reference when logging your hours.
 
-#### Kiosk
-
-The [Kiosk Product Page](https://www.deputy.com/features/time-clock) will provide you with a great overview of how to interact with the system.
-
-During the initial run the Kiosk will be located in the Teachers Lounge @ DBC (TreeHouse) plugged in by the TV. Feel free to pop in and use it to signin/signout. If all goes reasonably well we will mount it permanently up front somewhere: TBD.
-
-Kiosk Process:
-- Signin/Signout by selecting your name from the list on the left.
-- The picture you see in the list is the one displayed on the Infowall.
-- Enter your pin. Pin can be found under Deputy Profile. I recommend changing it to some easily remembered.
-- Tap Start Shift / End Shift in the upper right.
-- Smile! Kiosk will snap your photo.
-- For scheduled shifts your done. Logout and get to it.
-- For an unscheduled shift choose the appropriate area from the list.
-- When ending a shift you may choose to leave a comment in lieu of filling out the End of Session form. If comments took over I would do away with the EOS form altogether...
-- Disregard the Take Break button. DBC shifts are designed to run break free. If you have two shifts with lunch in between that's two separate shifts.
-- If you are working two back to back shifts ie: 6-8,8-10 you may stay signed in for the first throughout. Just make a comment when you signout.
-
-The Kiosk App offers additional features outside of signin/signout. Right now don't worry with it too much although if you see a good use feel free to play around. Might be a great way to share cohort information day to day.
-
 #### Deputy Side Notes
 
-- You can access Deputy via web or native mobile app. The mobile app is recommended actually.
+- You can access Deputy via web or native mobile app. The mobile app is recommended.
 - Upload your (super nice looking cause it will be displayed on the infowall during your shift) profile pic via the circle edit in 'My Profile' not the section under 'Edit My Global Profile'. The interface there is buggy.
-- Refresh often in the web client. Their AJAX workflow doesn't always bind correctly.
-- The Kiosk takes a picture when you signin/signout. Yes I know it's dumb but it makes admin really giddy on the inside. We don't keep the photo's. Photos are stored on the Deputy DB and wiped along with all other data when/if you are offboarded from DBC.
+- Refresh often in the web client. Their AJAX workflow isn't stellar.
 - I really didn't like the name Deputy at first, it has an under the thumb connotation that's no good. But it's grown on me. Three points as a historical aside:
   - Coaches => Core Coaches => Teaching Assistants => Mentors
   - Sherif Abushadi built the original Coaches program way back when.
