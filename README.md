@@ -8,9 +8,6 @@
 
 ## Table of Contents:
 
-  - [Shifts](shifts.md)
-  - [Deputy](deputy.md)
-  - [Workday](workday.md)
   - [What to do?](shifts.md#during-a-shift)
   - [Student Notes](#student-notes)
   - [Feedback](#giving-and-receiving-feedback)
@@ -20,6 +17,12 @@
   - [DBC-Schedule-Overlay](#calendar-overlay.md)
   - [On boarding Guide](onboarding.md)
   - [Student Facing Info](student-facing-mentors.md)
+
+## Crucial Info:
+
+- [Shift Protocols](shifts.md)
+- Shift Scheduling via [Deputy](deputy.md)
+- Payroll via [Workday](workday.md)
 
 *****
 
@@ -44,12 +47,6 @@ Email List: sf.mentors@devbootcamp.com
 Slack: sfmentors
 
 Mentor Coordinator: Hunter T. Chapman <hunter@devbootcamp.com>
-
-#### Crucial Info:
-
-- [Shift Protocols](shifts.md)
-- Shift Scheduling via [Deputy](deputy.md)
-- Payroll via [Workday](workday.md)
 
 ----
 
