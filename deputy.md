@@ -54,22 +54,28 @@ All Mentors should receive an invite to Deputy during onboarding. Please email t
 
 #### TimeSheets
 
-**Important Note:**
+Deputy creates a timesheet entry whenever you complete a shift.
+These sheets make an excellent reference when logging your hours in Workday.
+
+**Pending VS Approval:**
+
+![timesheets](images/deputy-timesheets.png)
+
+If your signin/signout times for a scheduled shift are within a 1 hour variance of the scheduled time, the timesheet is auto approved a few minutes after the shift ends. The vast majority of your timesheets in Deputy should automatically update to 'approved' for this reason.
+
+If you work a shift that is not scheduled in advance (ie: marketing event) or if you work a drastically different time than you were scheduled the timesheet will read 'Pending Approval'. You should add a comment as to the cause of the irregularity.
+
+The Mentor Coordinator will review all 'Pending Approval' timesheets each week for legitness. Minor issues will be set to 'Approved'. Major issues will require a conversion.
+
+**Important Notes:**
 - Deputy timesheet entries DO NOT replace the requirement to report your hours in workday.
-- Deputy timesheets are cross referenced randomly to Workday hour submissions.
-
-Deputy creates a timesheet whenever you complete a shift.
-
-If your signin/signout times are within a 1 hour variance of a scheduled shift you claimed the timesheet is auto approved a few minutes after the shift ends.
-
-If you work a shift that is not scheduled in advance (ie: marketing event) or if you work a drastically different time than you were scheduled the timesheet will read Pending Approval. You should add a comment as to the cause of the irregularity. The Mentor Coordinator will review all non-approved timesheets each week. Generally this will be checking the box and moving on but if a negative pattern emerges you may be in for a chat.
-
-Main takeaway here is that for the vast majority of you timesheets in Deputy are not really something to worry with, although they would make an excellent reference when logging your hours.
+- Deputy timesheets are cross referenced by administration to Workday hour submissions.
+- Workday hour submissions that do not sync with Deputy timesheets will not be approved.
 
 #### Deputy Side Notes
 
 - You can access Deputy via web or native mobile app. The mobile app is recommended.
-- Upload your (super nice looking cause it will be displayed on the infowall during your shift) profile pic via the circle edit in 'My Profile' not the section under 'Edit My Global Profile'. The interface there is buggy.
+- Please, upload your super nice looking cause it will be displayed on the infowall during your shift profile pic.
 - Refresh often in the web client. Their AJAX workflow isn't stellar.
 - I really didn't like the name Deputy at first, it has an under the thumb connotation that's no good. But it's grown on me. Three points as a historical aside:
   - Coaches => Core Coaches => Teaching Assistants => Mentors
