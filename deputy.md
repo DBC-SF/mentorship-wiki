@@ -70,7 +70,7 @@ The Mentor Coordinator will review all 'Pending Approval' timesheets each week f
 **Important Notes:**
 - Deputy timesheet entries DO NOT replace the requirement to report your hours in workday.
 - Deputy timesheets are cross referenced by administration to Workday hour submissions.
-- Workday hour submissions that do not sync with Deputy timesheets will not be approved.
+- Workday hour submissions that do not sync with Deputy timesheets **will not be approved**.
 
 #### Deputy Side Notes
 

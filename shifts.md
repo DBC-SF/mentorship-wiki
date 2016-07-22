@@ -2,30 +2,32 @@
 
 A shift is time that you book via the Deputy app to Mentor @ DBC. If you book a shift you are expected to show up for that time slot. Shifts signups will be cross-referenced to actual hours logged as well as your Workday timesheet.
 
-### Scheduling Shifts:
+Shift scheduling and shift tracking are handled exclusively via Deputy.
 
-All shift scheduling is handled via the [Deputy app.](deputy.md)
+For information on how to interface with this system please read the [DBC Deputy Docs](deputy.md).
+
+### Scheduling Shifts:
 
 Shift Signup Timeline:
 
 - All Mentors book sessions from premade shifts for the upcoming phase.
 - Mentors select from available shifts over 3 rounds at times listed below.
-- The first two rounds selections are limited to __5 hours per Mentor per week__ excluding preassigned slots. Additional hours can be picked up in the open final round.
-- Update [this sheet](https://docs.google.com/spreadsheets/d/1RgO926LYjNb4OuYwPOBIEkX3hjQNLmT-P99IEIxpmP0/edit#gid=0) for eligibility for the first round.
+- The first two rounds selections are limited to __5 hours per Mentor per week__ excluding preassigned shifts. Additional hours can be picked up in the open final round.
+- Update [this sheet](https://docs.google.com/spreadsheets/d/1RgO926LYjNb4OuYwPOBIEkX3hjQNLmT-P99IEIxpmP0/edit#gid=0) for eligibility as an employed mentor in the the first round.
 
 - First Round:
-  - __Dayside Mentors__
+  - __Dayside Mentors__ (Max 20 HR/Week)
     - Open: Week 2 Friday afternoon.
     - Close: Wednesday @ 7:00 PM Week 3.
-  - __Mentors currently employed as Devs__
+  - __Mentors currently employed as Devs__(Max 5 HR/Week)
     - Open: Week 2 Friday afternoon.
     - Close: Sunday @ 7:00 PM.
 - Second Round:
-  - __Non-Employed Mentors__
+  - __Non-Employed Mentors__(Max 5 HR/Week)
     - Open: Sunday @ 7:00 PM Week 3.
     - Close: Wednesday @ 7:00 PM Week 3.
 - Final Round:
-  - __All Mentors__ Open Final Round:
+  - __All Mentors__ Open Final Round:(Up to weekly 20HR cap)
     - Open: Wednesday @ 7:00 PM of Week 3
     - All remaining shifts are __Up for grabs to all Mentors__.
 
@@ -35,7 +37,7 @@ Shift Signup Timeline:
 - Review the challenges the students will be working on by checking each of their phase guides in the respective cohort organizations. You can access these through your GitHub account. If you do not have access email the Mentor Coordinator.
 
 #### During a Shift:
-- Sign in for your shift via the [Deputy Mentor Kiosk](https://www.deputy.com/features/time-clock).
+- Sign in for your shift via the [Deputy Mobile App](https://www.deputy.com/mobile).
 - Your name and profile picture will be displayed on DBC-Infowall
 - Still, please let the students know you're available.
 - Take walks up and down the aisles every so often - some students don't ask questions unless you pass by.
