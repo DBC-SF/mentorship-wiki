@@ -24,11 +24,11 @@ Shift Signup Timeline:
     - Close: Sunday @ 7:00 PM.
 - Second Round:
   - __Non-Employed Mentors__(Max 5 HR/Week)
-    - Open: Sunday @ 7:00 PM Week 3.
+    - Open: Sunday @ ~ 7:00 PM Week 3.
     - Close: Wednesday @ 7:00 PM Week 3.
 - Final Round:
   - __All Mentors__ Open Final Round:(Up to weekly 20HR cap)
-    - Open: Wednesday @ 7:00 PM of Week 3
+    - Open: Wednesday @ ~ 7:00 PM of Week 3
     - All remaining shifts are __Up for grabs to all Mentors__.
 
 ### Shift Cadence:
