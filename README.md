@@ -41,7 +41,7 @@ Email List: sf.mentors@devbootcamp.com
 
 Slack: sfmentors
 
-Mentor Coordinator: Hunter T. Chapman <hunter@devbootcamp.com>
+Mentor Coordinator: [Hunter T. Chapman](mailto:hunter@devbootcamp.com)
 
 ----
 
