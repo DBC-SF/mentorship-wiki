@@ -1,10 +1,5 @@
 # Mentors Wiki
 
-#### Flash Notice: Temp notes on new scheduling implementation.
-
-1. Any shifts scheduled by night and weekend mentors under the old calendar for the upcoming phase will be honored under the new schedule for this phase only. Simply signin for the shift as an unscheduled shift and leave a note when signing out that the shift was previously scheduled.
-
-2. Removed iPad kiosk for shift signin / signout after poor initial feedback. Please download the native mobile app to your phone and use it for signing in/out of your shifts. If this is a presents a technical barrier for anyone please email me directly.
 
 ## Table of Contents:
 
